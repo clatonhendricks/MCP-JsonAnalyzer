@@ -5,7 +5,7 @@ from typing import List, Dict, Any
 
 # Initialize the server
 
-mcp = FastMCP("WHeSvc")
+mcp = FastMCP("JsonMCPServer")
 
 @mcp.tool()
 def get_top_cpu_processes(file_path: str = "sys_perf.json", top_n: int = 5) -> List[Dict[str, Any]]:
