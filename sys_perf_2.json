@@ -1,0 +1,4431 @@
+{
+    "buckets": [
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 518.91,
+                "StopTimeInMs": 5518.91
+            },
+            "BucketId": 1,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 5518.91,
+                "StopTimeInMs": 10518.91
+            },
+            "BucketId": 2,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 10518.91,
+                "StopTimeInMs": 15518.91
+            },
+            "BucketId": 3,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 15518.91,
+                "StopTimeInMs": 20518.91
+            },
+            "BucketId": 4,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 20518.91,
+                "StopTimeInMs": 25518.91
+            },
+            "BucketId": 5,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 25518.91,
+                "StopTimeInMs": 30518.91
+            },
+            "BucketId": 6,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 30518.91,
+                "StopTimeInMs": 35518.91
+            },
+            "BucketId": 7,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 35518.91,
+                "StopTimeInMs": 40518.91
+            },
+            "BucketId": 8,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 40518.91,
+                "StopTimeInMs": 45518.91
+            },
+            "BucketId": 9,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 45518.91,
+                "StopTimeInMs": 50518.91
+            },
+            "BucketId": 10,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 50518.91,
+                "StopTimeInMs": 55518.91
+            },
+            "BucketId": 11,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 55518.91,
+                "StopTimeInMs": 60518.91
+            },
+            "BucketId": 12,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 644,
+                        "AvgWorkingSetSizeMiB": 658,
+                        "PeakCommitSizeMiB": 645,
+                        "PeakWorkingSetSizeMiB": 658,
+                        "SnapshotCount": 2
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 610,
+                        "AvgWorkingSetSizeMiB": 657,
+                        "PeakCommitSizeMiB": 610,
+                        "PeakWorkingSetSizeMiB": 658,
+                        "SnapshotCount": 2
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 714,
+                        "AvgWorkingSetSizeMiB": 605,
+                        "PeakCommitSizeMiB": 714,
+                        "PeakWorkingSetSizeMiB": 605,
+                        "SnapshotCount": 4
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 301,
+                        "AvgWorkingSetSizeMiB": 60,
+                        "PeakCommitSizeMiB": 301,
+                        "PeakWorkingSetSizeMiB": 60,
+                        "SnapshotCount": 4
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 422,
+                        "AvgWorkingSetSizeMiB": 416,
+                        "PeakCommitSizeMiB": 423,
+                        "PeakWorkingSetSizeMiB": 417,
+                        "SnapshotCount": 2
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 503,
+                        "PeakCommitSizeMiB": 280,
+                        "PeakWorkingSetSizeMiB": 504,
+                        "SnapshotCount": 4
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 719,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 719,
+                        "PeakWorkingSetSizeMiB": 4,
+                        "SnapshotCount": 2
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 265,
+                        "AvgWorkingSetSizeMiB": 209,
+                        "PeakCommitSizeMiB": 265,
+                        "PeakWorkingSetSizeMiB": 209,
+                        "SnapshotCount": 4
+                    },
+                    "Spotify.exe (24308)": {
+                        "AvgCommitSizeMiB": 214,
+                        "AvgWorkingSetSizeMiB": 334,
+                        "PeakCommitSizeMiB": 214,
+                        "PeakWorkingSetSizeMiB": 334,
+                        "SnapshotCount": 4
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 400,
+                        "AvgWorkingSetSizeMiB": 485,
+                        "PeakCommitSizeMiB": 401,
+                        "PeakWorkingSetSizeMiB": 486,
+                        "SnapshotCount": 4
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 60518.91,
+                "StopTimeInMs": 65518.91
+            },
+            "BucketId": 13,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 644,
+                        "AvgWorkingSetSizeMiB": 657,
+                        "PeakCommitSizeMiB": 644,
+                        "PeakWorkingSetSizeMiB": 657,
+                        "SnapshotCount": 3
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 601,
+                        "AvgWorkingSetSizeMiB": 640,
+                        "PeakCommitSizeMiB": 603,
+                        "PeakWorkingSetSizeMiB": 642,
+                        "SnapshotCount": 3
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 715,
+                        "AvgWorkingSetSizeMiB": 606,
+                        "PeakCommitSizeMiB": 715,
+                        "PeakWorkingSetSizeMiB": 606,
+                        "SnapshotCount": 3
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 301,
+                        "AvgWorkingSetSizeMiB": 60,
+                        "PeakCommitSizeMiB": 301,
+                        "PeakWorkingSetSizeMiB": 60,
+                        "SnapshotCount": 3
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 1,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 1,
+                        "SnapshotCount": 3
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 420,
+                        "AvgWorkingSetSizeMiB": 415,
+                        "PeakCommitSizeMiB": 422,
+                        "PeakWorkingSetSizeMiB": 416,
+                        "SnapshotCount": 3
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 504,
+                        "PeakCommitSizeMiB": 280,
+                        "PeakWorkingSetSizeMiB": 504,
+                        "SnapshotCount": 3
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 718,
+                        "AvgWorkingSetSizeMiB": 9,
+                        "PeakCommitSizeMiB": 719,
+                        "PeakWorkingSetSizeMiB": 15,
+                        "SnapshotCount": 3
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 265,
+                        "AvgWorkingSetSizeMiB": 209,
+                        "PeakCommitSizeMiB": 265,
+                        "PeakWorkingSetSizeMiB": 209,
+                        "SnapshotCount": 3
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 400,
+                        "AvgWorkingSetSizeMiB": 484,
+                        "PeakCommitSizeMiB": 400,
+                        "PeakWorkingSetSizeMiB": 484,
+                        "SnapshotCount": 3
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 65518.91,
+                "StopTimeInMs": 70518.91
+            },
+            "BucketId": 14,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 16825,
+                    "AvgWorkingSetSizeMiB": 15708,
+                    "PeakCommitSizeMiB": 16825,
+                    "PeakWorkingSetSizeMiB": 15708,
+                    "SnapshotCount": 1
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 644,
+                        "AvgWorkingSetSizeMiB": 657,
+                        "PeakCommitSizeMiB": 644,
+                        "PeakWorkingSetSizeMiB": 657,
+                        "SnapshotCount": 3
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 382,
+                        "AvgWorkingSetSizeMiB": 429,
+                        "PeakCommitSizeMiB": 523,
+                        "PeakWorkingSetSizeMiB": 569,
+                        "SnapshotCount": 3
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 717,
+                        "AvgWorkingSetSizeMiB": 609,
+                        "PeakCommitSizeMiB": 717,
+                        "PeakWorkingSetSizeMiB": 609,
+                        "SnapshotCount": 3
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 301,
+                        "AvgWorkingSetSizeMiB": 60,
+                        "PeakCommitSizeMiB": 301,
+                        "PeakWorkingSetSizeMiB": 60,
+                        "SnapshotCount": 3
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 1,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 1,
+                        "SnapshotCount": 3
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 415,
+                        "AvgWorkingSetSizeMiB": 412,
+                        "PeakCommitSizeMiB": 419,
+                        "PeakWorkingSetSizeMiB": 415,
+                        "SnapshotCount": 3
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 504,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 504,
+                        "SnapshotCount": 3
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 718,
+                        "AvgWorkingSetSizeMiB": 10,
+                        "PeakCommitSizeMiB": 719,
+                        "PeakWorkingSetSizeMiB": 14,
+                        "SnapshotCount": 3
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 265,
+                        "AvgWorkingSetSizeMiB": 209,
+                        "PeakCommitSizeMiB": 265,
+                        "PeakWorkingSetSizeMiB": 209,
+                        "SnapshotCount": 3
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 400,
+                        "AvgWorkingSetSizeMiB": 484,
+                        "PeakCommitSizeMiB": 400,
+                        "PeakWorkingSetSizeMiB": 484,
+                        "SnapshotCount": 3
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 70518.91,
+                "StopTimeInMs": 75518.91
+            },
+            "BucketId": 15,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 16852,
+                    "AvgWorkingSetSizeMiB": 15593,
+                    "PeakCommitSizeMiB": 17067,
+                    "PeakWorkingSetSizeMiB": 15821,
+                    "SnapshotCount": 10
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 645,
+                        "AvgWorkingSetSizeMiB": 657,
+                        "PeakCommitSizeMiB": 650,
+                        "PeakWorkingSetSizeMiB": 666,
+                        "SnapshotCount": 5
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 299,
+                        "AvgWorkingSetSizeMiB": 341,
+                        "PeakCommitSizeMiB": 308,
+                        "PeakWorkingSetSizeMiB": 349,
+                        "SnapshotCount": 5
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 716,
+                        "AvgWorkingSetSizeMiB": 608,
+                        "PeakCommitSizeMiB": 717,
+                        "PeakWorkingSetSizeMiB": 609,
+                        "SnapshotCount": 6
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 301,
+                        "AvgWorkingSetSizeMiB": 60,
+                        "PeakCommitSizeMiB": 302,
+                        "PeakWorkingSetSizeMiB": 61,
+                        "SnapshotCount": 6
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 1,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 1,
+                        "SnapshotCount": 5
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 416,
+                        "AvgWorkingSetSizeMiB": 413,
+                        "PeakCommitSizeMiB": 420,
+                        "PeakWorkingSetSizeMiB": 417,
+                        "SnapshotCount": 5
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 504,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 504,
+                        "SnapshotCount": 6
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 716,
+                        "AvgWorkingSetSizeMiB": 14,
+                        "PeakCommitSizeMiB": 717,
+                        "PeakWorkingSetSizeMiB": 16,
+                        "SnapshotCount": 5
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 265,
+                        "AvgWorkingSetSizeMiB": 209,
+                        "PeakCommitSizeMiB": 265,
+                        "PeakWorkingSetSizeMiB": 209,
+                        "SnapshotCount": 6
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 399,
+                        "AvgWorkingSetSizeMiB": 484,
+                        "PeakCommitSizeMiB": 400,
+                        "PeakWorkingSetSizeMiB": 484,
+                        "SnapshotCount": 6
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 75518.91,
+                "StopTimeInMs": 80518.91
+            },
+            "BucketId": 16,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 16856,
+                    "AvgWorkingSetSizeMiB": 15584,
+                    "PeakCommitSizeMiB": 16903,
+                    "PeakWorkingSetSizeMiB": 15599,
+                    "SnapshotCount": 9
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 653,
+                        "AvgWorkingSetSizeMiB": 669,
+                        "PeakCommitSizeMiB": 654,
+                        "PeakWorkingSetSizeMiB": 670,
+                        "SnapshotCount": 6
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 294,
+                        "AvgWorkingSetSizeMiB": 335,
+                        "PeakCommitSizeMiB": 302,
+                        "PeakWorkingSetSizeMiB": 344,
+                        "SnapshotCount": 6
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 717,
+                        "AvgWorkingSetSizeMiB": 611,
+                        "PeakCommitSizeMiB": 720,
+                        "PeakWorkingSetSizeMiB": 615,
+                        "SnapshotCount": 6
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 284,
+                        "AvgWorkingSetSizeMiB": 61,
+                        "PeakCommitSizeMiB": 302,
+                        "PeakWorkingSetSizeMiB": 61,
+                        "SnapshotCount": 6
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 1,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 1,
+                        "SnapshotCount": 6
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 416,
+                        "AvgWorkingSetSizeMiB": 415,
+                        "PeakCommitSizeMiB": 421,
+                        "PeakWorkingSetSizeMiB": 420,
+                        "SnapshotCount": 6
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 504,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 504,
+                        "SnapshotCount": 6
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 715,
+                        "AvgWorkingSetSizeMiB": 12,
+                        "PeakCommitSizeMiB": 716,
+                        "PeakWorkingSetSizeMiB": 16,
+                        "SnapshotCount": 6
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 264,
+                        "AvgWorkingSetSizeMiB": 209,
+                        "PeakCommitSizeMiB": 265,
+                        "PeakWorkingSetSizeMiB": 209,
+                        "SnapshotCount": 6
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 398,
+                        "AvgWorkingSetSizeMiB": 483,
+                        "PeakCommitSizeMiB": 399,
+                        "PeakWorkingSetSizeMiB": 484,
+                        "SnapshotCount": 6
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 80518.91,
+                "StopTimeInMs": 85518.91
+            },
+            "BucketId": 17,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 16859,
+                    "AvgWorkingSetSizeMiB": 15606,
+                    "PeakCommitSizeMiB": 16932,
+                    "PeakWorkingSetSizeMiB": 15671,
+                    "SnapshotCount": 10
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 658,
+                        "AvgWorkingSetSizeMiB": 674,
+                        "PeakCommitSizeMiB": 660,
+                        "PeakWorkingSetSizeMiB": 676,
+                        "SnapshotCount": 9
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 321,
+                        "PeakCommitSizeMiB": 281,
+                        "PeakWorkingSetSizeMiB": 322,
+                        "SnapshotCount": 9
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 722,
+                        "AvgWorkingSetSizeMiB": 616,
+                        "PeakCommitSizeMiB": 722,
+                        "PeakWorkingSetSizeMiB": 616,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 265,
+                        "AvgWorkingSetSizeMiB": 60,
+                        "PeakCommitSizeMiB": 266,
+                        "PeakWorkingSetSizeMiB": 61,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 9
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 420,
+                        "AvgWorkingSetSizeMiB": 419,
+                        "PeakCommitSizeMiB": 423,
+                        "PeakWorkingSetSizeMiB": 422,
+                        "SnapshotCount": 9
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 502,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 504,
+                        "SnapshotCount": 10
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 717,
+                        "AvgWorkingSetSizeMiB": 13,
+                        "PeakCommitSizeMiB": 718,
+                        "PeakWorkingSetSizeMiB": 17,
+                        "SnapshotCount": 9
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 263,
+                        "AvgWorkingSetSizeMiB": 208,
+                        "PeakCommitSizeMiB": 263,
+                        "PeakWorkingSetSizeMiB": 209,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 398,
+                        "AvgWorkingSetSizeMiB": 483,
+                        "PeakCommitSizeMiB": 398,
+                        "PeakWorkingSetSizeMiB": 483,
+                        "SnapshotCount": 10
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 85518.91,
+                "StopTimeInMs": 90518.91
+            },
+            "BucketId": 18,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 16911,
+                    "AvgWorkingSetSizeMiB": 15632,
+                    "PeakCommitSizeMiB": 16930,
+                    "PeakWorkingSetSizeMiB": 15656,
+                    "SnapshotCount": 10
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 660,
+                        "AvgWorkingSetSizeMiB": 676,
+                        "PeakCommitSizeMiB": 660,
+                        "PeakWorkingSetSizeMiB": 676,
+                        "SnapshotCount": 10
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 265,
+                        "AvgWorkingSetSizeMiB": 307,
+                        "PeakCommitSizeMiB": 265,
+                        "PeakWorkingSetSizeMiB": 307,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 722,
+                        "AvgWorkingSetSizeMiB": 617,
+                        "PeakCommitSizeMiB": 724,
+                        "PeakWorkingSetSizeMiB": 619,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 60,
+                        "PeakCommitSizeMiB": 272,
+                        "PeakWorkingSetSizeMiB": 60,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 10
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 421,
+                        "AvgWorkingSetSizeMiB": 420,
+                        "PeakCommitSizeMiB": 426,
+                        "PeakWorkingSetSizeMiB": 425,
+                        "SnapshotCount": 10
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 501,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 501,
+                        "SnapshotCount": 10
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 720,
+                        "AvgWorkingSetSizeMiB": 6,
+                        "PeakCommitSizeMiB": 722,
+                        "PeakWorkingSetSizeMiB": 14,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 262,
+                        "AvgWorkingSetSizeMiB": 208,
+                        "PeakCommitSizeMiB": 262,
+                        "PeakWorkingSetSizeMiB": 208,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 398,
+                        "AvgWorkingSetSizeMiB": 483,
+                        "PeakCommitSizeMiB": 398,
+                        "PeakWorkingSetSizeMiB": 483,
+                        "SnapshotCount": 10
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 90518.91,
+                "StopTimeInMs": 95518.91
+            },
+            "BucketId": 19,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 16864,
+                    "AvgWorkingSetSizeMiB": 15600,
+                    "PeakCommitSizeMiB": 16896,
+                    "PeakWorkingSetSizeMiB": 15651,
+                    "SnapshotCount": 10
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 684,
+                        "AvgWorkingSetSizeMiB": 699,
+                        "PeakCommitSizeMiB": 698,
+                        "PeakWorkingSetSizeMiB": 714,
+                        "SnapshotCount": 10
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 265,
+                        "AvgWorkingSetSizeMiB": 306,
+                        "PeakCommitSizeMiB": 265,
+                        "PeakWorkingSetSizeMiB": 307,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 726,
+                        "AvgWorkingSetSizeMiB": 622,
+                        "PeakCommitSizeMiB": 732,
+                        "PeakWorkingSetSizeMiB": 627,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 270,
+                        "AvgWorkingSetSizeMiB": 60,
+                        "PeakCommitSizeMiB": 272,
+                        "PeakWorkingSetSizeMiB": 60,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 10
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 412,
+                        "AvgWorkingSetSizeMiB": 412,
+                        "PeakCommitSizeMiB": 422,
+                        "PeakWorkingSetSizeMiB": 423,
+                        "SnapshotCount": 10
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 501,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 501,
+                        "SnapshotCount": 10
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 723,
+                        "AvgWorkingSetSizeMiB": 8,
+                        "PeakCommitSizeMiB": 723,
+                        "PeakWorkingSetSizeMiB": 14,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 262,
+                        "AvgWorkingSetSizeMiB": 208,
+                        "PeakCommitSizeMiB": 262,
+                        "PeakWorkingSetSizeMiB": 208,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 398,
+                        "AvgWorkingSetSizeMiB": 483,
+                        "PeakCommitSizeMiB": 398,
+                        "PeakWorkingSetSizeMiB": 483,
+                        "SnapshotCount": 10
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 95518.91,
+                "StopTimeInMs": 100518.91
+            },
+            "BucketId": 20,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {
+                        "Eco": {
+                            "AvgFrequencyInMHz": 2983.82,
+                            "AvgInstructionsPerCycle": 0.46,
+                            "CpuTimeInMs": 112.06,
+                            "CpuUtilization": 0.28,
+                            "CycleCount": 334367342,
+                            "InstructionCount": 152191178
+                        },
+                        "High": {
+                            "AvgFrequencyInMHz": 3019.1,
+                            "AvgInstructionsPerCycle": 0.29,
+                            "CpuTimeInMs": 3921.37,
+                            "CpuUtilization": 9.8,
+                            "CycleCount": 11838995473,
+                            "InstructionCount": 3380560321
+                        },
+                        "Low": {
+                            "AvgFrequencyInMHz": 3037.73,
+                            "AvgInstructionsPerCycle": 0.32,
+                            "CpuTimeInMs": 364.48,
+                            "CpuUtilization": 0.91,
+                            "CycleCount": 1107192221,
+                            "InstructionCount": 357476642
+                        },
+                        "Medium": {
+                            "AvgFrequencyInMHz": 3012.97,
+                            "AvgInstructionsPerCycle": 0.41,
+                            "CpuTimeInMs": 3089.37,
+                            "CpuUtilization": 7.72,
+                            "CycleCount": 9308164858,
+                            "InstructionCount": 3857114205
+                        },
+                        "Utility": {
+                            "AvgFrequencyInMHz": 3000.06,
+                            "AvgInstructionsPerCycle": 0.39,
+                            "CpuTimeInMs": 2889.3,
+                            "CpuUtilization": 7.22,
+                            "CycleCount": 8668060299,
+                            "InstructionCount": 3380198713
+                        }
+                    },
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {
+                        "Critical": 164.72,
+                        "ForegroundBoosted": 1008.66,
+                        "High": 189.91,
+                        "Idle": 218.97,
+                        "Low": 940.9,
+                        "Normal": 6606.95
+                    }
+                },
+                "CpuMetric": {
+                    "AvgFrequencyInMHz": 3012.24,
+                    "AvgInstructionsPerCycle": 0.36,
+                    "CpuTimeInMs": 10376.59,
+                    "CpuUtilization": 25.94,
+                    "CycleCount": 31256780193,
+                    "InstructionCount": 11127541059
+                },
+                "DiskMetric": {
+                    "DiskActivityCount": 94,
+                    "DiskReadMiB": 0.01,
+                    "DiskServiceTimeAvgInUs": 279.24,
+                    "DiskWriteMiB": 1.15,
+                    "PagefileIoMiB": 0.0
+                },
+                "DpcIsrMetric": {
+                    "DpcCount": 3736,
+                    "DpcTimeMs": 80.43,
+                    "IsrCount": 1482,
+                    "IsrTimeMs": 43.82
+                },
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 16908,
+                    "AvgWorkingSetSizeMiB": 15694,
+                    "PeakCommitSizeMiB": 16917,
+                    "PeakWorkingSetSizeMiB": 15707,
+                    "SnapshotCount": 10
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {
+                    "C:\\WINDOWS\\system32\\svchost.exe -k appmodel -p -s StateRepository (5508): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3026.52,
+                        "AvgInstructionsPerCycle": 0.44,
+                        "CpuTimeInMs": 238.39,
+                        "CpuUtilization": 0.6,
+                        "CycleCount": 721491814,
+                        "InstructionCount": 316368089
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS (4080): Normal, Medium": {
+                        "AvgFrequencyInMHz": 3007.98,
+                        "AvgInstructionsPerCycle": 0.56,
+                        "CpuTimeInMs": 331.54,
+                        "CpuUtilization": 0.83,
+                        "CycleCount": 997264771,
+                        "InstructionCount": 557084803
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k netprofm -p -s netprofm (2848): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3015.62,
+                        "AvgInstructionsPerCycle": 0.27,
+                        "CpuTimeInMs": 463.84,
+                        "CpuUtilization": 1.16,
+                        "CycleCount": 1398762954,
+                        "InstructionCount": 382980060
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s TokenBroker (10892): Normal, Medium": {
+                        "AvgFrequencyInMHz": 3007.08,
+                        "AvgInstructionsPerCycle": 0.35,
+                        "CpuTimeInMs": 238.71,
+                        "CpuUtilization": 0.6,
+                        "CycleCount": 717819687,
+                        "InstructionCount": 249768249
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k osprivacy -p -s camsvc (10316): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3025.84,
+                        "AvgInstructionsPerCycle": 0.38,
+                        "CpuTimeInMs": 322.42,
+                        "CpuUtilization": 0.81,
+                        "CycleCount": 975592681,
+                        "InstructionCount": 372515567
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k RPCSS -p (1736): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3007.62,
+                        "AvgInstructionsPerCycle": 0.25,
+                        "CpuTimeInMs": 267.13,
+                        "CpuUtilization": 0.67,
+                        "CycleCount": 803426669,
+                        "InstructionCount": 199014329
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k wusvcs -p -s WaaSMedicSvc (10496): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3038.24,
+                        "AvgInstructionsPerCycle": 0.46,
+                        "CpuTimeInMs": 607.84,
+                        "CpuUtilization": 1.52,
+                        "CycleCount": 1846765236,
+                        "InstructionCount": 857137498
+                    },
+                    "dwm.exe (2040): Critical, High": {
+                        "AvgFrequencyInMHz": 3057.09,
+                        "AvgInstructionsPerCycle": 0.23,
+                        "CpuTimeInMs": 845.08,
+                        "CpuUtilization": 2.11,
+                        "CycleCount": 2583488556,
+                        "InstructionCount": 599628592
+                    },
+                    "IA.exe (13568): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3005.35,
+                        "AvgInstructionsPerCycle": 0.48,
+                        "CpuTimeInMs": 383.65,
+                        "CpuUtilization": 0.96,
+                        "CycleCount": 1153004009,
+                        "InstructionCount": 553926433
+                    },
+                    "msedgewebview2.exe (16252): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3016.05,
+                        "AvgInstructionsPerCycle": 0.41,
+                        "CpuTimeInMs": 206.01,
+                        "CpuUtilization": 0.52,
+                        "CycleCount": 621336132,
+                        "InstructionCount": 252979217
+                    },
+                    "msedgewebview2.exe (4520): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3029.99,
+                        "AvgInstructionsPerCycle": 0.34,
+                        "CpuTimeInMs": 717.09,
+                        "CpuUtilization": 1.79,
+                        "CycleCount": 2172774756,
+                        "InstructionCount": 746715880
+                    },
+                    "MsMpEng.exe (6804): Low, Utility": {
+                        "AvgFrequencyInMHz": 2976.07,
+                        "AvgInstructionsPerCycle": 0.31,
+                        "CpuTimeInMs": 257.67,
+                        "CpuUtilization": 0.64,
+                        "CycleCount": 766843481,
+                        "InstructionCount": 238032602
+                    },
+                    "MsMpEng.exe (6804): Normal, Utility": {
+                        "AvgFrequencyInMHz": 2985.11,
+                        "AvgInstructionsPerCycle": 0.39,
+                        "CpuTimeInMs": 244.37,
+                        "CpuUtilization": 0.61,
+                        "CycleCount": 729471315,
+                        "InstructionCount": 281851547
+                    },
+                    "msrdc.exe (23976): Normal, Medium": {
+                        "AvgFrequencyInMHz": 3021.99,
+                        "AvgInstructionsPerCycle": 0.33,
+                        "CpuTimeInMs": 334.25,
+                        "CpuUtilization": 0.84,
+                        "CycleCount": 1010099581,
+                        "InstructionCount": 328401970
+                    },
+                    "MsSense.exe (6988): Low, Utility": {
+                        "AvgFrequencyInMHz": 2976.63,
+                        "AvgInstructionsPerCycle": 0.39,
+                        "CpuTimeInMs": 281.36,
+                        "CpuUtilization": 0.7,
+                        "CycleCount": 837504197,
+                        "InstructionCount": 323120410
+                    },
+                    "Spotify.exe (13412): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3014.22,
+                        "AvgInstructionsPerCycle": 0.18,
+                        "CpuTimeInMs": 284.35,
+                        "CpuUtilization": 0.71,
+                        "CycleCount": 857092603,
+                        "InstructionCount": 153329642
+                    },
+                    "Spotify.exe (24324): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3020.2,
+                        "AvgInstructionsPerCycle": 0.45,
+                        "CpuTimeInMs": 265.25,
+                        "CpuUtilization": 0.66,
+                        "CycleCount": 801108944,
+                        "InstructionCount": 361332608
+                    },
+                    "Spotify.exe (24324): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2973.53,
+                        "AvgInstructionsPerCycle": 0.81,
+                        "CpuTimeInMs": 367.11,
+                        "CpuUtilization": 0.92,
+                        "CycleCount": 1091614076,
+                        "InstructionCount": 885306599
+                    },
+                    "SystemSettings.exe (24284): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3003.55,
+                        "AvgInstructionsPerCycle": 0.27,
+                        "CpuTimeInMs": 759.21,
+                        "CpuUtilization": 1.9,
+                        "CycleCount": 2280323121,
+                        "InstructionCount": 611260200
+                    },
+                    "WUDFHost.exe (2084): High, High": {
+                        "AvgFrequencyInMHz": 3009.6,
+                        "AvgInstructionsPerCycle": 0.17,
+                        "CpuTimeInMs": 234.26,
+                        "CpuUtilization": 0.59,
+                        "CycleCount": 705028865,
+                        "InstructionCount": 119846178
+                    }
+                },
+                "DiskMetric": {
+                    "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup -s CDPUserSvc (8744)": {
+                        "DiskActivityCount": 3,
+                        "DiskReadMiB": 0.01,
+                        "DiskServiceTimeAvgInUs": 226.27
+                    },
+                    "MoUsoCoreWorker.exe (24748)": {
+                        "DiskActivityCount": 78,
+                        "DiskServiceTimeAvgInUs": 239.06,
+                        "DiskWriteMiB": 0.39
+                    },
+                    "msrdc.exe (23976)": {
+                        "PagefileIoMiB": 0.0
+                    },
+                    "SearchHost.exe (14296)": {
+                        "DiskActivityCount": 1,
+                        "DiskServiceTimeAvgInUs": 3901.1,
+                        "DiskWriteMiB": 0.01
+                    },
+                    "System (4)": {
+                        "DiskActivityCount": 12,
+                        "DiskServiceTimeAvgInUs": 251.85,
+                        "DiskWriteMiB": 0.75
+                    }
+                },
+                "DpcIsrMetric": {
+                    "ACPI.sys": {
+                        "DpcCount": 6,
+                        "DpcTimeMs": 0.76,
+                        "IsrCount": 3,
+                        "IsrTimeMs": 0.25
+                    },
+                    "dxgkrnl.sys": {
+                        "DpcCount": 894,
+                        "DpcTimeMs": 28.84,
+                        "IsrCount": 934,
+                        "IsrTimeMs": 40.7
+                    },
+                    "dxgmms2.sys": {
+                        "DpcCount": 51,
+                        "DpcTimeMs": 0.28
+                    },
+                    "igdkmd64.sys": {
+                        "DpcCount": 6,
+                        "DpcTimeMs": 0.05
+                    },
+                    "NDIS.SYS": {
+                        "DpcCount": 116,
+                        "DpcTimeMs": 3.18,
+                        "IsrCount": 87,
+                        "IsrTimeMs": 0.71
+                    },
+                    "Ndu.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.0
+                    },
+                    "ntoskrnl.exe": {
+                        "DpcCount": 1220,
+                        "DpcTimeMs": 8.42
+                    },
+                    "nvlddmkm.sys": {
+                        "DpcCount": 834,
+                        "DpcTimeMs": 14.7
+                    },
+                    "stornvme.sys": {
+                        "DpcCount": 98,
+                        "DpcTimeMs": 0.39
+                    },
+                    "storport.sys": {
+                        "DpcCount": 97,
+                        "DpcTimeMs": 2.4,
+                        "IsrCount": 98,
+                        "IsrTimeMs": 0.32
+                    },
+                    "symcryptk.dll": {
+                        "DpcCount": 16,
+                        "DpcTimeMs": 0.12
+                    },
+                    "tcpip.sys": {
+                        "DpcCount": 37,
+                        "DpcTimeMs": 2.42
+                    },
+                    "Wdf01000.sys": {
+                        "DpcCount": 360,
+                        "DpcTimeMs": 18.86,
+                        "IsrCount": 360,
+                        "IsrTimeMs": 1.84
+                    }
+                },
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 695,
+                        "AvgWorkingSetSizeMiB": 710,
+                        "PeakCommitSizeMiB": 699,
+                        "PeakWorkingSetSizeMiB": 715,
+                        "SnapshotCount": 10
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 265,
+                        "AvgWorkingSetSizeMiB": 306,
+                        "PeakCommitSizeMiB": 265,
+                        "PeakWorkingSetSizeMiB": 306,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 728,
+                        "AvgWorkingSetSizeMiB": 625,
+                        "PeakCommitSizeMiB": 729,
+                        "PeakWorkingSetSizeMiB": 625,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 263,
+                        "AvgWorkingSetSizeMiB": 60,
+                        "PeakCommitSizeMiB": 265,
+                        "PeakWorkingSetSizeMiB": 60,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 10
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 412,
+                        "AvgWorkingSetSizeMiB": 412,
+                        "PeakCommitSizeMiB": 418,
+                        "PeakWorkingSetSizeMiB": 419,
+                        "SnapshotCount": 10
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 501,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 501,
+                        "SnapshotCount": 10
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 724,
+                        "AvgWorkingSetSizeMiB": 7,
+                        "PeakCommitSizeMiB": 726,
+                        "PeakWorkingSetSizeMiB": 13,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 263,
+                        "AvgWorkingSetSizeMiB": 208,
+                        "PeakCommitSizeMiB": 263,
+                        "PeakWorkingSetSizeMiB": 209,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 398,
+                        "AvgWorkingSetSizeMiB": 483,
+                        "PeakCommitSizeMiB": 398,
+                        "PeakWorkingSetSizeMiB": 483,
+                        "SnapshotCount": 10
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 100518.91,
+                "StopTimeInMs": 105518.91
+            },
+            "BucketId": 21,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {
+                        "Eco": {
+                            "AvgFrequencyInMHz": 2932.28,
+                            "AvgInstructionsPerCycle": 0.5,
+                            "CpuTimeInMs": 639.63,
+                            "CpuUtilization": 1.6,
+                            "CycleCount": 1875576340,
+                            "InstructionCount": 931261680
+                        },
+                        "High": {
+                            "AvgFrequencyInMHz": 2997.8,
+                            "AvgInstructionsPerCycle": 0.34,
+                            "CpuTimeInMs": 14776.35,
+                            "CpuUtilization": 36.94,
+                            "CycleCount": 44296477808,
+                            "InstructionCount": 15037326058
+                        },
+                        "Low": {
+                            "AvgFrequencyInMHz": 3035.57,
+                            "AvgInstructionsPerCycle": 0.34,
+                            "CpuTimeInMs": 4125.09,
+                            "CpuUtilization": 10.31,
+                            "CycleCount": 12521979900,
+                            "InstructionCount": 4213580168
+                        },
+                        "Medium": {
+                            "AvgFrequencyInMHz": 2996.16,
+                            "AvgInstructionsPerCycle": 0.41,
+                            "CpuTimeInMs": 9518.22,
+                            "CpuUtilization": 23.8,
+                            "CycleCount": 28518117046,
+                            "InstructionCount": 11733616917
+                        },
+                        "Utility": {
+                            "AvgFrequencyInMHz": 2995.78,
+                            "AvgInstructionsPerCycle": 0.4,
+                            "CpuTimeInMs": 10923.55,
+                            "CpuUtilization": 27.31,
+                            "CycleCount": 32724550113,
+                            "InstructionCount": 13013435825
+                        }
+                    },
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {
+                        "Critical": 189.06,
+                        "DeRanked": 292.33,
+                        "ForegroundBoosted": 4892.48,
+                        "High": 189.83,
+                        "Idle": 1574.46,
+                        "Low": 6526.33,
+                        "Normal": 33960.4
+                    }
+                },
+                "CpuMetric": {
+                    "AvgFrequencyInMHz": 2999.71,
+                    "AvgInstructionsPerCycle": 0.37,
+                    "CpuTimeInMs": 39983.24,
+                    "CpuUtilization": 99.96,
+                    "CycleCount": 119937925564,
+                    "InstructionCount": 44929933662
+                },
+                "DiskMetric": {
+                    "DiskActivityCount": 166,
+                    "DiskReadMiB": 0.0,
+                    "DiskServiceTimeAvgInUs": 266.27,
+                    "DiskWriteMiB": 7.26,
+                    "PagefileIoMiB": 0.14
+                },
+                "DpcIsrMetric": {
+                    "DpcCount": 14157,
+                    "DpcTimeMs": 297.04,
+                    "IsrCount": 4487,
+                    "IsrTimeMs": 160.68
+                },
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 16935,
+                    "AvgWorkingSetSizeMiB": 15700,
+                    "PeakCommitSizeMiB": 17000,
+                    "PeakWorkingSetSizeMiB": 15719,
+                    "SnapshotCount": 10
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS (4080): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2993.78,
+                        "AvgInstructionsPerCycle": 0.55,
+                        "CpuTimeInMs": 1011.95,
+                        "CpuUtilization": 2.53,
+                        "CycleCount": 3029560363,
+                        "InstructionCount": 1664227748
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k netprofm -p -s netprofm (2848): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 2984.02,
+                        "AvgInstructionsPerCycle": 0.27,
+                        "CpuTimeInMs": 1186.02,
+                        "CpuUtilization": 2.97,
+                        "CycleCount": 3539107475,
+                        "InstructionCount": 941693660
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k netprofm -p -s netprofm (2848): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3026.65,
+                        "AvgInstructionsPerCycle": 0.28,
+                        "CpuTimeInMs": 795.48,
+                        "CpuUtilization": 1.99,
+                        "CycleCount": 2407643258,
+                        "InstructionCount": 679605215
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s TokenBroker (10892): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3050.0,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 783.91,
+                        "CpuUtilization": 1.96,
+                        "CycleCount": 2390921691,
+                        "InstructionCount": 1010423620
+                    },
+                    "dwm.exe (2040): Critical, High": {
+                        "AvgFrequencyInMHz": 3030.32,
+                        "AvgInstructionsPerCycle": 0.22,
+                        "CpuTimeInMs": 3012.24,
+                        "CpuUtilization": 7.53,
+                        "CycleCount": 9128039633,
+                        "InstructionCount": 2047080926
+                    },
+                    "explorer.exe (13208): Normal, Medium": {
+                        "AvgFrequencyInMHz": 3030.62,
+                        "AvgInstructionsPerCycle": 0.4,
+                        "CpuTimeInMs": 941.34,
+                        "CpuUtilization": 2.35,
+                        "CycleCount": 2852847747,
+                        "InstructionCount": 1148194128
+                    },
+                    "IA.exe (13568): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3005.17,
+                        "AvgInstructionsPerCycle": 0.4,
+                        "CpuTimeInMs": 1381.47,
+                        "CpuUtilization": 3.45,
+                        "CycleCount": 4151546331,
+                        "InstructionCount": 1652826789
+                    },
+                    "MoUsoCoreWorker.exe (24748): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 2935.57,
+                        "AvgInstructionsPerCycle": 0.32,
+                        "CpuTimeInMs": 925.75,
+                        "CpuUtilization": 2.31,
+                        "CycleCount": 2717604295,
+                        "InstructionCount": 858150997
+                    },
+                    "MoUsoCoreWorker.exe (24748): Normal, Utility": {
+                        "AvgFrequencyInMHz": 2984.87,
+                        "AvgInstructionsPerCycle": 0.43,
+                        "CpuTimeInMs": 2146.14,
+                        "CpuUtilization": 5.37,
+                        "CycleCount": 6405940941,
+                        "InstructionCount": 2743621921
+                    },
+                    "msedgewebview2.exe (13268): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3036.04,
+                        "AvgInstructionsPerCycle": 0.55,
+                        "CpuTimeInMs": 3865.88,
+                        "CpuUtilization": 9.66,
+                        "CycleCount": 11736962383,
+                        "InstructionCount": 6415428476
+                    },
+                    "msedgewebview2.exe (4520): ForegroundBoosted, Low": {
+                        "AvgFrequencyInMHz": 3026.32,
+                        "AvgInstructionsPerCycle": 0.33,
+                        "CpuTimeInMs": 1313.79,
+                        "CpuUtilization": 3.28,
+                        "CycleCount": 3975953176,
+                        "InstructionCount": 1295210332
+                    },
+                    "msedgewebview2.exe (4520): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2997.04,
+                        "AvgInstructionsPerCycle": 0.29,
+                        "CpuTimeInMs": 1563.15,
+                        "CpuUtilization": 3.91,
+                        "CycleCount": 4684817195,
+                        "InstructionCount": 1372030514
+                    },
+                    "MsMpEng.exe (6804): Low, Utility": {
+                        "AvgFrequencyInMHz": 2976.86,
+                        "AvgInstructionsPerCycle": 0.38,
+                        "CpuTimeInMs": 657.34,
+                        "CpuUtilization": 1.64,
+                        "CycleCount": 1956806295,
+                        "InstructionCount": 739626804
+                    },
+                    "MsMpEng.exe (6804): Normal, Utility": {
+                        "AvgFrequencyInMHz": 2992.27,
+                        "AvgInstructionsPerCycle": 0.39,
+                        "CpuTimeInMs": 1102.12,
+                        "CpuUtilization": 2.76,
+                        "CycleCount": 3297838668,
+                        "InstructionCount": 1300025651
+                    },
+                    "MsSense.exe (6988): Low, Utility": {
+                        "AvgFrequencyInMHz": 2969.94,
+                        "AvgInstructionsPerCycle": 0.44,
+                        "CpuTimeInMs": 965.41,
+                        "CpuUtilization": 2.41,
+                        "CycleCount": 2867207229,
+                        "InstructionCount": 1259409558
+                    },
+                    "Spotify.exe (13412): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2988.45,
+                        "AvgInstructionsPerCycle": 0.16,
+                        "CpuTimeInMs": 1125.63,
+                        "CpuUtilization": 2.81,
+                        "CycleCount": 3363885365,
+                        "InstructionCount": 545427271
+                    },
+                    "Spotify.exe (24324): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3000.72,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 1085.85,
+                        "CpuUtilization": 2.71,
+                        "CycleCount": 3258335913,
+                        "InstructionCount": 1371684955
+                    },
+                    "Spotify.exe (24324): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2983.2,
+                        "AvgInstructionsPerCycle": 0.83,
+                        "CpuTimeInMs": 1348.1,
+                        "CpuUtilization": 3.37,
+                        "CycleCount": 4021647905,
+                        "InstructionCount": 3355573113
+                    },
+                    "SystemSettings.exe (24284): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 2949.5,
+                        "AvgInstructionsPerCycle": 0.24,
+                        "CpuTimeInMs": 1770.66,
+                        "CpuUtilization": 4.43,
+                        "CycleCount": 5222561358,
+                        "InstructionCount": 1229152805
+                    },
+                    "WUDFHost.exe (2084): High, High": {
+                        "AvgFrequencyInMHz": 2991.56,
+                        "AvgInstructionsPerCycle": 0.2,
+                        "CpuTimeInMs": 761.58,
+                        "CpuUtilization": 1.9,
+                        "CycleCount": 2278312374,
+                        "InstructionCount": 459260557
+                    }
+                },
+                "DiskMetric": {
+                    "backgroundTaskHost.exe (25736)": {
+                        "DiskActivityCount": 10,
+                        "DiskServiceTimeAvgInUs": 421.91,
+                        "DiskWriteMiB": 0.11
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup -s WpnUserService (12304)": {
+                        "PagefileIoMiB": 0.06
+                    },
+                    "MoUsoCoreWorker.exe (24748)": {
+                        "DiskActivityCount": 19,
+                        "DiskServiceTimeAvgInUs": 333.74,
+                        "DiskWriteMiB": 0.08
+                    },
+                    "msedgewebview2.exe (19220)": {
+                        "DiskActivityCount": 13,
+                        "DiskServiceTimeAvgInUs": 417.73,
+                        "DiskWriteMiB": 0.15
+                    },
+                    "msedgewebview2.exe (23432)": {
+                        "DiskActivityCount": 32,
+                        "DiskServiceTimeAvgInUs": 248.35,
+                        "DiskWriteMiB": 2.18,
+                        "PagefileIoMiB": 0.06
+                    },
+                    "msedgewebview2.exe (9756)": {
+                        "DiskActivityCount": 13,
+                        "DiskServiceTimeAvgInUs": 273.84,
+                        "DiskWriteMiB": 0.11,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "MsSense.exe (6988)": {
+                        "DiskActivityCount": 1,
+                        "DiskReadMiB": 0.0,
+                        "DiskServiceTimeAvgInUs": 306.0,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "DiskActivityCount": 3,
+                        "DiskServiceTimeAvgInUs": 459.23,
+                        "DiskWriteMiB": 0.01
+                    },
+                    "System (4)": {
+                        "DiskActivityCount": 72,
+                        "DiskServiceTimeAvgInUs": 203.54,
+                        "DiskWriteMiB": 4.6
+                    },
+                    "SystemSettings.exe (24284)": {
+                        "DiskActivityCount": 3,
+                        "DiskServiceTimeAvgInUs": 121.67,
+                        "DiskWriteMiB": 0.01
+                    }
+                },
+                "DpcIsrMetric": {
+                    "ACPI.sys": {
+                        "DpcCount": 24,
+                        "DpcTimeMs": 5.21,
+                        "IsrCount": 18,
+                        "IsrTimeMs": 1.26
+                    },
+                    "afd.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.0
+                    },
+                    "CLASSPNP.SYS": {
+                        "DpcCount": 3,
+                        "DpcTimeMs": 0.01
+                    },
+                    "dxgkrnl.sys": {
+                        "DpcCount": 3074,
+                        "DpcTimeMs": 111.0,
+                        "IsrCount": 3166,
+                        "IsrTimeMs": 152.27
+                    },
+                    "dxgmms2.sys": {
+                        "DpcCount": 176,
+                        "DpcTimeMs": 1.34
+                    },
+                    "igdkmd64.sys": {
+                        "DpcCount": 26,
+                        "DpcTimeMs": 0.25
+                    },
+                    "NDIS.SYS": {
+                        "DpcCount": 361,
+                        "DpcTimeMs": 10.57,
+                        "IsrCount": 271,
+                        "IsrTimeMs": 2.13
+                    },
+                    "Ndu.sys": {
+                        "DpcCount": 5,
+                        "DpcTimeMs": 0.0
+                    },
+                    "Ntfs.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.0
+                    },
+                    "ntoskrnl.exe": {
+                        "DpcCount": 6189,
+                        "DpcTimeMs": 39.9
+                    },
+                    "nvlddmkm.sys": {
+                        "DpcCount": 2883,
+                        "DpcTimeMs": 65.51
+                    },
+                    "pdc.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.01
+                    },
+                    "stornvme.sys": {
+                        "DpcCount": 184,
+                        "DpcTimeMs": 0.79
+                    },
+                    "storport.sys": {
+                        "DpcCount": 178,
+                        "DpcTimeMs": 4.5,
+                        "IsrCount": 185,
+                        "IsrTimeMs": 0.55
+                    },
+                    "storvsp.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.01
+                    },
+                    "symcryptk.dll": {
+                        "DpcCount": 57,
+                        "DpcTimeMs": 0.64
+                    },
+                    "tcpip.sys": {
+                        "DpcCount": 136,
+                        "DpcTimeMs": 5.2
+                    },
+                    "UnionFS.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.0
+                    },
+                    "vmswitch.sys": {
+                        "DpcCount": 9,
+                        "DpcTimeMs": 0.1
+                    },
+                    "Wdf01000.sys": {
+                        "DpcCount": 847,
+                        "DpcTimeMs": 51.98,
+                        "IsrCount": 847,
+                        "IsrTimeMs": 4.46
+                    }
+                },
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 680,
+                        "AvgWorkingSetSizeMiB": 696,
+                        "PeakCommitSizeMiB": 690,
+                        "PeakWorkingSetSizeMiB": 706,
+                        "SnapshotCount": 10
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 271,
+                        "AvgWorkingSetSizeMiB": 313,
+                        "PeakCommitSizeMiB": 274,
+                        "PeakWorkingSetSizeMiB": 316,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 736,
+                        "AvgWorkingSetSizeMiB": 636,
+                        "PeakCommitSizeMiB": 770,
+                        "PeakWorkingSetSizeMiB": 674,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 305,
+                        "AvgWorkingSetSizeMiB": 64,
+                        "PeakCommitSizeMiB": 346,
+                        "PeakWorkingSetSizeMiB": 68,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 10
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 416,
+                        "AvgWorkingSetSizeMiB": 407,
+                        "PeakCommitSizeMiB": 419,
+                        "PeakWorkingSetSizeMiB": 419,
+                        "SnapshotCount": 10
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 501,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 501,
+                        "SnapshotCount": 10
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 726,
+                        "AvgWorkingSetSizeMiB": 8,
+                        "PeakCommitSizeMiB": 726,
+                        "PeakWorkingSetSizeMiB": 14,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (13412)": {
+                        "AvgCommitSizeMiB": 258,
+                        "AvgWorkingSetSizeMiB": 208,
+                        "PeakCommitSizeMiB": 263,
+                        "PeakWorkingSetSizeMiB": 209,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 398,
+                        "AvgWorkingSetSizeMiB": 483,
+                        "PeakCommitSizeMiB": 398,
+                        "PeakWorkingSetSizeMiB": 483,
+                        "SnapshotCount": 10
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 105518.91,
+                "StopTimeInMs": 110518.91
+            },
+            "BucketId": 22,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {
+                        "Eco": {
+                            "AvgFrequencyInMHz": 3072.58,
+                            "AvgInstructionsPerCycle": 0.43,
+                            "CpuTimeInMs": 1040.78,
+                            "CpuUtilization": 2.6,
+                            "CycleCount": 3197880292,
+                            "InstructionCount": 1384820911
+                        },
+                        "High": {
+                            "AvgFrequencyInMHz": 3076.84,
+                            "AvgInstructionsPerCycle": 0.44,
+                            "CpuTimeInMs": 16031.5,
+                            "CpuUtilization": 40.08,
+                            "CycleCount": 49326302054,
+                            "InstructionCount": 21705321542
+                        },
+                        "Low": {
+                            "AvgFrequencyInMHz": 3064.41,
+                            "AvgInstructionsPerCycle": 0.36,
+                            "CpuTimeInMs": 7483.3,
+                            "CpuUtilization": 18.71,
+                            "CycleCount": 22931887347,
+                            "InstructionCount": 8319993835
+                        },
+                        "Medium": {
+                            "AvgFrequencyInMHz": 3063.28,
+                            "AvgInstructionsPerCycle": 0.49,
+                            "CpuTimeInMs": 5927.29,
+                            "CpuUtilization": 14.82,
+                            "CycleCount": 18156971008,
+                            "InstructionCount": 8836759347
+                        },
+                        "Utility": {
+                            "AvgFrequencyInMHz": 3061.52,
+                            "AvgInstructionsPerCycle": 0.44,
+                            "CpuTimeInMs": 9404.47,
+                            "CpuUtilization": 23.51,
+                            "CycleCount": 28791971052,
+                            "InstructionCount": 12577364529
+                        }
+                    },
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {
+                        "Critical": 173.23,
+                        "DeRanked": 264.54,
+                        "ForegroundBoosted": 5154.33,
+                        "High": 177.83,
+                        "Idle": 3648.68,
+                        "Low": 15231.08,
+                        "Normal": 45891.39
+                    }
+                },
+                "CpuMetric": {
+                    "AvgFrequencyInMHz": 3068.78,
+                    "AvgInstructionsPerCycle": 0.43,
+                    "CpuTimeInMs": 39890.96,
+                    "CpuUtilization": 99.73,
+                    "CycleCount": 122416466429,
+                    "InstructionCount": 52827825336
+                },
+                "DiskMetric": {
+                    "DiskActivityCount": 971,
+                    "DiskReadMiB": 0.01,
+                    "DiskServiceTimeAvgInUs": 195.19,
+                    "DiskWriteMiB": 34.87,
+                    "PagefileIoMiB": 5.85
+                },
+                "DpcIsrMetric": {
+                    "DpcCount": 14951,
+                    "DpcTimeMs": 291.47,
+                    "IsrCount": 5590,
+                    "IsrTimeMs": 157.7
+                },
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 17035,
+                    "AvgWorkingSetSizeMiB": 15733,
+                    "PeakCommitSizeMiB": 17059,
+                    "PeakWorkingSetSizeMiB": 15754,
+                    "SnapshotCount": 9
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS (4080): Normal, Low": {
+                        "AvgFrequencyInMHz": 3068.06,
+                        "AvgInstructionsPerCycle": 0.69,
+                        "CpuTimeInMs": 692.84,
+                        "CpuUtilization": 1.73,
+                        "CycleCount": 2125677548,
+                        "InstructionCount": 1470176627
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k netprofm -p -s netprofm (2848): Normal, Low": {
+                        "AvgFrequencyInMHz": 3065.93,
+                        "AvgInstructionsPerCycle": 0.24,
+                        "CpuTimeInMs": 519.04,
+                        "CpuUtilization": 1.3,
+                        "CycleCount": 1591338570,
+                        "InstructionCount": 385327168
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k netprofm -p -s netprofm (2848): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3062.48,
+                        "AvgInstructionsPerCycle": 0.28,
+                        "CpuTimeInMs": 1114.18,
+                        "CpuUtilization": 2.79,
+                        "CycleCount": 3412149160,
+                        "InstructionCount": 964808329
+                    },
+                    "dwm.exe (2040): Critical, High": {
+                        "AvgFrequencyInMHz": 3088.09,
+                        "AvgInstructionsPerCycle": 0.21,
+                        "CpuTimeInMs": 3036.63,
+                        "CpuUtilization": 7.59,
+                        "CycleCount": 9377391371,
+                        "InstructionCount": 1966259640
+                    },
+                    "explorer.exe (13208): Normal, Medium": {
+                        "AvgFrequencyInMHz": 3078.73,
+                        "AvgInstructionsPerCycle": 0.45,
+                        "CpuTimeInMs": 1333.69,
+                        "CpuUtilization": 3.33,
+                        "CycleCount": 4106067070,
+                        "InstructionCount": 1836145090
+                    },
+                    "IA.exe (13568): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3066.95,
+                        "AvgInstructionsPerCycle": 0.37,
+                        "CpuTimeInMs": 1585.25,
+                        "CpuUtilization": 3.96,
+                        "CycleCount": 4861889381,
+                        "InstructionCount": 1811450205
+                    },
+                    "msedgewebview2.exe (13268): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3090.32,
+                        "AvgInstructionsPerCycle": 0.55,
+                        "CpuTimeInMs": 7583.86,
+                        "CpuUtilization": 18.96,
+                        "CycleCount": 23436555137,
+                        "InstructionCount": 12922466089
+                    },
+                    "msedgewebview2.exe (16252): Normal, Low": {
+                        "AvgFrequencyInMHz": 3057.22,
+                        "AvgInstructionsPerCycle": 0.47,
+                        "CpuTimeInMs": 558.84,
+                        "CpuUtilization": 1.4,
+                        "CycleCount": 1708495180,
+                        "InstructionCount": 802656334
+                    },
+                    "msedgewebview2.exe (18764): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3041.93,
+                        "AvgInstructionsPerCycle": 0.41,
+                        "CpuTimeInMs": 969.05,
+                        "CpuUtilization": 2.42,
+                        "CycleCount": 2947779970,
+                        "InstructionCount": 1209557405
+                    },
+                    "msedgewebview2.exe (23432): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3074.54,
+                        "AvgInstructionsPerCycle": 0.56,
+                        "CpuTimeInMs": 1443.41,
+                        "CpuUtilization": 3.61,
+                        "CycleCount": 4437823857,
+                        "InstructionCount": 2466941818
+                    },
+                    "msedgewebview2.exe (4520): ForegroundBoosted, Low": {
+                        "AvgFrequencyInMHz": 3068.12,
+                        "AvgInstructionsPerCycle": 0.34,
+                        "CpuTimeInMs": 2749.14,
+                        "CpuUtilization": 6.87,
+                        "CycleCount": 8434691662,
+                        "InstructionCount": 2844446634
+                    },
+                    "MsMpEng.exe (6804): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3067.18,
+                        "AvgInstructionsPerCycle": 0.5,
+                        "CpuTimeInMs": 886.32,
+                        "CpuUtilization": 2.22,
+                        "CycleCount": 2718502669,
+                        "InstructionCount": 1362121635
+                    },
+                    "MsSense.exe (6988): Low, Utility": {
+                        "AvgFrequencyInMHz": 3054.43,
+                        "AvgInstructionsPerCycle": 0.51,
+                        "CpuTimeInMs": 834.03,
+                        "CpuUtilization": 2.09,
+                        "CycleCount": 2547485858,
+                        "InstructionCount": 1295336737
+                    },
+                    "services.exe (1316): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3082.82,
+                        "AvgInstructionsPerCycle": 0.37,
+                        "CpuTimeInMs": 848.89,
+                        "CpuUtilization": 2.12,
+                        "CycleCount": 2616975562,
+                        "InstructionCount": 962697396
+                    },
+                    "Spotify.exe (13412): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3051.66,
+                        "AvgInstructionsPerCycle": 0.19,
+                        "CpuTimeInMs": 942.14,
+                        "CpuUtilization": 2.36,
+                        "CycleCount": 2875093602,
+                        "InstructionCount": 557153034
+                    },
+                    "Spotify.exe (24324): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3061.28,
+                        "AvgInstructionsPerCycle": 0.45,
+                        "CpuTimeInMs": 1089.69,
+                        "CpuUtilization": 2.72,
+                        "CycleCount": 3335846733,
+                        "InstructionCount": 1505798933
+                    },
+                    "Spotify.exe (24324): Normal, Medium": {
+                        "AvgFrequencyInMHz": 3057.16,
+                        "AvgInstructionsPerCycle": 0.86,
+                        "CpuTimeInMs": 1246.65,
+                        "CpuUtilization": 3.12,
+                        "CycleCount": 3811203629,
+                        "InstructionCount": 3268564843
+                    },
+                    "SystemSettings.exe (24284): Normal, Low": {
+                        "AvgFrequencyInMHz": 3066.58,
+                        "AvgInstructionsPerCycle": 0.22,
+                        "CpuTimeInMs": 1076.79,
+                        "CpuUtilization": 2.69,
+                        "CycleCount": 3302066378,
+                        "InstructionCount": 741516473
+                    },
+                    "WmiPrvSE.exe (8384): Normal, Eco": {
+                        "AvgFrequencyInMHz": 3083.54,
+                        "AvgInstructionsPerCycle": 0.27,
+                        "CpuTimeInMs": 532.02,
+                        "CpuUtilization": 1.33,
+                        "CycleCount": 1640502857,
+                        "InstructionCount": 442396804
+                    },
+                    "WUDFHost.exe (2084): High, High": {
+                        "AvgFrequencyInMHz": 3034.02,
+                        "AvgInstructionsPerCycle": 0.17,
+                        "CpuTimeInMs": 631.41,
+                        "CpuUtilization": 1.58,
+                        "CycleCount": 1915710867,
+                        "InstructionCount": 330314875
+                    }
+                },
+                "DiskMetric": {
+                    "explorer.exe (13208)": {
+                        "DiskActivityCount": 6,
+                        "DiskServiceTimeAvgInUs": 356.85,
+                        "DiskWriteMiB": 0.25,
+                        "PagefileIoMiB": 0.21
+                    },
+                    "msedge.exe (8084)": {
+                        "DiskActivityCount": 38,
+                        "DiskServiceTimeAvgInUs": 1517.93,
+                        "DiskWriteMiB": 0.24
+                    },
+                    "msedgewebview2.exe (13940)": {
+                        "DiskActivityCount": 4,
+                        "DiskReadMiB": 0.0,
+                        "DiskServiceTimeAvgInUs": 69.1,
+                        "DiskWriteMiB": 0.0,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "msedgewebview2.exe (23432)": {
+                        "DiskActivityCount": 419,
+                        "DiskServiceTimeAvgInUs": 226.11,
+                        "DiskWriteMiB": 26.59,
+                        "PagefileIoMiB": 5.63
+                    },
+                    "msedgewebview2.exe (9756)": {
+                        "DiskActivityCount": 14,
+                        "DiskServiceTimeAvgInUs": 331.66,
+                        "DiskWriteMiB": 0.18
+                    },
+                    "MsSense.exe (6988)": {
+                        "DiskActivityCount": 7,
+                        "DiskReadMiB": 0.0,
+                        "DiskServiceTimeAvgInUs": 515.91,
+                        "DiskWriteMiB": 0.2
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "DiskActivityCount": 1,
+                        "DiskServiceTimeAvgInUs": 1029.4,
+                        "DiskWriteMiB": 0.0
+                    },
+                    "System (4)": {
+                        "DiskActivityCount": 482,
+                        "DiskReadMiB": 0.0,
+                        "DiskServiceTimeAvgInUs": 52.71,
+                        "DiskWriteMiB": 7.41
+                    }
+                },
+                "DpcIsrMetric": {
+                    "ACPI.sys": {
+                        "DpcCount": 6,
+                        "DpcTimeMs": 0.8,
+                        "IsrCount": 3,
+                        "IsrTimeMs": 0.25
+                    },
+                    "CLASSPNP.SYS": {
+                        "DpcCount": 3,
+                        "DpcTimeMs": 0.03
+                    },
+                    "dxgkrnl.sys": {
+                        "DpcCount": 3222,
+                        "DpcTimeMs": 107.77,
+                        "IsrCount": 3234,
+                        "IsrTimeMs": 147.03
+                    },
+                    "dxgmms2.sys": {
+                        "DpcCount": 143,
+                        "DpcTimeMs": 0.82
+                    },
+                    "fse.sys": {
+                        "DpcCount": 2,
+                        "DpcTimeMs": 0.15
+                    },
+                    "igdkmd64.sys": {
+                        "DpcCount": 34,
+                        "DpcTimeMs": 0.32
+                    },
+                    "NDIS.SYS": {
+                        "DpcCount": 457,
+                        "DpcTimeMs": 4.46,
+                        "IsrCount": 426,
+                        "IsrTimeMs": 2.99
+                    },
+                    "Ndu.sys": {
+                        "DpcCount": 13,
+                        "DpcTimeMs": 0.02
+                    },
+                    "Ntfs.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.0
+                    },
+                    "ntoskrnl.exe": {
+                        "DpcCount": 4597,
+                        "DpcTimeMs": 31.28
+                    },
+                    "nvlddmkm.sys": {
+                        "DpcCount": 3328,
+                        "DpcTimeMs": 62.74
+                    },
+                    "stornvme.sys": {
+                        "DpcCount": 975,
+                        "DpcTimeMs": 2.82
+                    },
+                    "storport.sys": {
+                        "DpcCount": 971,
+                        "DpcTimeMs": 16.72,
+                        "IsrCount": 981,
+                        "IsrTimeMs": 2.23
+                    },
+                    "symcryptk.dll": {
+                        "DpcCount": 59,
+                        "DpcTimeMs": 0.43
+                    },
+                    "tcpip.sys": {
+                        "DpcCount": 189,
+                        "DpcTimeMs": 8.16
+                    },
+                    "vmswitch.sys": {
+                        "DpcCount": 5,
+                        "DpcTimeMs": 0.1
+                    },
+                    "Wdf01000.sys": {
+                        "DpcCount": 946,
+                        "DpcTimeMs": 54.85,
+                        "IsrCount": 946,
+                        "IsrTimeMs": 5.2
+                    }
+                },
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 681,
+                        "AvgWorkingSetSizeMiB": 697,
+                        "PeakCommitSizeMiB": 700,
+                        "PeakWorkingSetSizeMiB": 716,
+                        "SnapshotCount": 9
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 266,
+                        "AvgWorkingSetSizeMiB": 308,
+                        "PeakCommitSizeMiB": 275,
+                        "PeakWorkingSetSizeMiB": 316,
+                        "SnapshotCount": 9
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 809,
+                        "AvgWorkingSetSizeMiB": 713,
+                        "PeakCommitSizeMiB": 826,
+                        "PeakWorkingSetSizeMiB": 731,
+                        "SnapshotCount": 9
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 367,
+                        "AvgWorkingSetSizeMiB": 71,
+                        "PeakCommitSizeMiB": 382,
+                        "PeakWorkingSetSizeMiB": 75,
+                        "SnapshotCount": 9
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 9
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 410,
+                        "AvgWorkingSetSizeMiB": 378,
+                        "PeakCommitSizeMiB": 416,
+                        "PeakWorkingSetSizeMiB": 383,
+                        "SnapshotCount": 9
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 501,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 501,
+                        "SnapshotCount": 9
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 726,
+                        "AvgWorkingSetSizeMiB": 10,
+                        "PeakCommitSizeMiB": 727,
+                        "PeakWorkingSetSizeMiB": 13,
+                        "SnapshotCount": 9
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 399,
+                        "AvgWorkingSetSizeMiB": 483,
+                        "PeakCommitSizeMiB": 400,
+                        "PeakWorkingSetSizeMiB": 485,
+                        "SnapshotCount": 9
+                    },
+                    "WUDFHost.exe (2084)": {
+                        "AvgCommitSizeMiB": 254,
+                        "AvgWorkingSetSizeMiB": 261,
+                        "PeakCommitSizeMiB": 254,
+                        "PeakWorkingSetSizeMiB": 261,
+                        "SnapshotCount": 9
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 110518.91,
+                "StopTimeInMs": 115518.91
+            },
+            "BucketId": 23,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {
+                        "Eco": {
+                            "AvgFrequencyInMHz": 2968.98,
+                            "AvgInstructionsPerCycle": 0.49,
+                            "CpuTimeInMs": 818.44,
+                            "CpuUtilization": 2.05,
+                            "CycleCount": 2429932009,
+                            "InstructionCount": 1190371454
+                        },
+                        "High": {
+                            "AvgFrequencyInMHz": 2976.1,
+                            "AvgInstructionsPerCycle": 0.33,
+                            "CpuTimeInMs": 13593.6,
+                            "CpuUtilization": 33.98,
+                            "CycleCount": 40455937236,
+                            "InstructionCount": 13518314284
+                        },
+                        "Low": {
+                            "AvgFrequencyInMHz": 2994.41,
+                            "AvgInstructionsPerCycle": 0.41,
+                            "CpuTimeInMs": 6402.88,
+                            "CpuUtilization": 16.01,
+                            "CycleCount": 19172878017,
+                            "InstructionCount": 7831724223
+                        },
+                        "Medium": {
+                            "AvgFrequencyInMHz": 2948.64,
+                            "AvgInstructionsPerCycle": 0.44,
+                            "CpuTimeInMs": 9445.01,
+                            "CpuUtilization": 23.61,
+                            "CycleCount": 27849965785,
+                            "InstructionCount": 12223976381
+                        },
+                        "Utility": {
+                            "AvgFrequencyInMHz": 2983.71,
+                            "AvgInstructionsPerCycle": 0.44,
+                            "CpuTimeInMs": 9711.37,
+                            "CpuUtilization": 24.28,
+                            "CycleCount": 28975914018,
+                            "InstructionCount": 12817991473
+                        }
+                    },
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {
+                        "Critical": 237.41,
+                        "DeRanked": 1313.93,
+                        "ForegroundBoosted": 4561.82,
+                        "High": 1528.85,
+                        "Idle": 9038.6,
+                        "Low": 9572.94,
+                        "Normal": 50032.05
+                    }
+                },
+                "CpuMetric": {
+                    "AvgFrequencyInMHz": 2974.25,
+                    "AvgInstructionsPerCycle": 0.4,
+                    "CpuTimeInMs": 39971.4,
+                    "CpuUtilization": 99.93,
+                    "CycleCount": 118884915418,
+                    "InstructionCount": 47582510259
+                },
+                "DiskMetric": {
+                    "DiskActivityCount": 951,
+                    "DiskReadMiB": 1.01,
+                    "DiskServiceTimeAvgInUs": 289.46,
+                    "DiskWriteMiB": 11.19,
+                    "PagefileIoMiB": 0.34
+                },
+                "DpcIsrMetric": {
+                    "DpcCount": 26798,
+                    "DpcTimeMs": 370.96,
+                    "IsrCount": 6324,
+                    "IsrTimeMs": 174.5
+                },
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 17298,
+                    "AvgWorkingSetSizeMiB": 15904,
+                    "PeakCommitSizeMiB": 17909,
+                    "PeakWorkingSetSizeMiB": 16203,
+                    "SnapshotCount": 10
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS (4080): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2995.03,
+                        "AvgInstructionsPerCycle": 0.67,
+                        "CpuTimeInMs": 746.47,
+                        "CpuUtilization": 1.87,
+                        "CycleCount": 2235697419,
+                        "InstructionCount": 1504418352
+                    },
+                    "dwm.exe (2040): Critical, High": {
+                        "AvgFrequencyInMHz": 2996.46,
+                        "AvgInstructionsPerCycle": 0.25,
+                        "CpuTimeInMs": 3198.25,
+                        "CpuUtilization": 8.0,
+                        "CycleCount": 9583441048,
+                        "InstructionCount": 2414450943
+                    },
+                    "explorer.exe (13208): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2910.73,
+                        "AvgInstructionsPerCycle": 0.23,
+                        "CpuTimeInMs": 551.81,
+                        "CpuUtilization": 1.38,
+                        "CycleCount": 1606172198,
+                        "InstructionCount": 363824111
+                    },
+                    "IA.exe (13568): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3020.81,
+                        "AvgInstructionsPerCycle": 0.4,
+                        "CpuTimeInMs": 1741.8,
+                        "CpuUtilization": 4.35,
+                        "CycleCount": 5261648236,
+                        "InstructionCount": 2103138104
+                    },
+                    "MoUsoCoreWorker.exe (24748): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 2892.25,
+                        "AvgInstructionsPerCycle": 0.33,
+                        "CpuTimeInMs": 879.67,
+                        "CpuUtilization": 2.2,
+                        "CycleCount": 2544229605,
+                        "InstructionCount": 838111492
+                    },
+                    "MoUsoCoreWorker.exe (24748): Normal, Utility": {
+                        "AvgFrequencyInMHz": 2965.25,
+                        "AvgInstructionsPerCycle": 0.46,
+                        "CpuTimeInMs": 1518.9,
+                        "CpuUtilization": 3.8,
+                        "CycleCount": 4503917349,
+                        "InstructionCount": 2051793377
+                    },
+                    "msedgewebview2.exe (13268): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3103.94,
+                        "AvgInstructionsPerCycle": 0.45,
+                        "CpuTimeInMs": 766.71,
+                        "CpuUtilization": 1.92,
+                        "CycleCount": 2379825556,
+                        "InstructionCount": 1071150255
+                    },
+                    "msedgewebview2.exe (13268): Normal, Low": {
+                        "AvgFrequencyInMHz": 3001.81,
+                        "AvgInstructionsPerCycle": 0.54,
+                        "CpuTimeInMs": 2000.95,
+                        "CpuUtilization": 5.0,
+                        "CycleCount": 6006481587,
+                        "InstructionCount": 3236293559
+                    },
+                    "msedgewebview2.exe (4520): ForegroundBoosted, Low": {
+                        "AvgFrequencyInMHz": 2981.89,
+                        "AvgInstructionsPerCycle": 0.32,
+                        "CpuTimeInMs": 1869.78,
+                        "CpuUtilization": 4.67,
+                        "CycleCount": 5575481293,
+                        "InstructionCount": 1793106046
+                    },
+                    "msedgewebview2.exe (4520): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2964.81,
+                        "AvgInstructionsPerCycle": 0.27,
+                        "CpuTimeInMs": 953.81,
+                        "CpuUtilization": 2.38,
+                        "CycleCount": 2827861453,
+                        "InstructionCount": 764003805
+                    },
+                    "MsMpEng.exe (6804): Normal, Utility": {
+                        "AvgFrequencyInMHz": 2993.4,
+                        "AvgInstructionsPerCycle": 0.52,
+                        "CpuTimeInMs": 995.07,
+                        "CpuUtilization": 2.49,
+                        "CycleCount": 2978644802,
+                        "InstructionCount": 1548439513
+                    },
+                    "msrdc.exe (23976): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 2998.71,
+                        "AvgInstructionsPerCycle": 0.47,
+                        "CpuTimeInMs": 1910.48,
+                        "CpuUtilization": 4.78,
+                        "CycleCount": 5728976819,
+                        "InstructionCount": 2710314184
+                    },
+                    "msrdc.exe (23976): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2923.84,
+                        "AvgInstructionsPerCycle": 0.48,
+                        "CpuTimeInMs": 1755.2,
+                        "CpuUtilization": 4.39,
+                        "CycleCount": 5131928939,
+                        "InstructionCount": 2481023161
+                    },
+                    "MsSense.exe (6988): Low, Utility": {
+                        "AvgFrequencyInMHz": 2961.9,
+                        "AvgInstructionsPerCycle": 0.48,
+                        "CpuTimeInMs": 873.11,
+                        "CpuUtilization": 2.18,
+                        "CycleCount": 2586068088,
+                        "InstructionCount": 1248536554
+                    },
+                    "Spotify.exe (13412): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2963.05,
+                        "AvgInstructionsPerCycle": 0.17,
+                        "CpuTimeInMs": 1078.38,
+                        "CpuUtilization": 2.7,
+                        "CycleCount": 3195289365,
+                        "InstructionCount": 548805797
+                    },
+                    "Spotify.exe (24324): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2973.0,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 1099.61,
+                        "CpuUtilization": 2.75,
+                        "CycleCount": 3269142106,
+                        "InstructionCount": 1381939514
+                    },
+                    "Spotify.exe (24324): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2951.8,
+                        "AvgInstructionsPerCycle": 0.82,
+                        "CpuTimeInMs": 1407.56,
+                        "CpuUtilization": 3.52,
+                        "CycleCount": 4154831666,
+                        "InstructionCount": 3414431325
+                    },
+                    "SystemSettings.exe (24284): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 2900.01,
+                        "AvgInstructionsPerCycle": 0.27,
+                        "CpuTimeInMs": 638.29,
+                        "CpuUtilization": 1.6,
+                        "CycleCount": 1851047392,
+                        "InstructionCount": 491454648
+                    },
+                    "taskhostw.exe (8240): Low, Utility": {
+                        "AvgFrequencyInMHz": 2964.62,
+                        "AvgInstructionsPerCycle": 0.46,
+                        "CpuTimeInMs": 838.13,
+                        "CpuUtilization": 2.1,
+                        "CycleCount": 2484736457,
+                        "InstructionCount": 1139606406
+                    },
+                    "WUDFHost.exe (2084): High, High": {
+                        "AvgFrequencyInMHz": 2951.59,
+                        "AvgInstructionsPerCycle": 0.2,
+                        "CpuTimeInMs": 893.17,
+                        "CpuUtilization": 2.23,
+                        "CycleCount": 2636270654,
+                        "InstructionCount": 514670660
+                    }
+                },
+                "DiskMetric": {
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog (4940)": {
+                        "DiskActivityCount": 8,
+                        "DiskServiceTimeAvgInUs": 917.33,
+                        "DiskWriteMiB": 0.04
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Schedule (2712)": {
+                        "DiskActivityCount": 15,
+                        "DiskServiceTimeAvgInUs": 325.19,
+                        "DiskWriteMiB": 0.45
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Winmgmt (3892)": {
+                        "DiskActivityCount": 26,
+                        "DiskServiceTimeAvgInUs": 219.53,
+                        "DiskWriteMiB": 0.3
+                    },
+                    "lsass.exe (1344)": {
+                        "DiskActivityCount": 10,
+                        "DiskServiceTimeAvgInUs": 492.68,
+                        "DiskWriteMiB": 0.04
+                    },
+                    "MoUsoCoreWorker.exe (24748)": {
+                        "DiskActivityCount": 589,
+                        "DiskServiceTimeAvgInUs": 340.95,
+                        "DiskWriteMiB": 2.86,
+                        "PagefileIoMiB": 0.08
+                    },
+                    "ms-teams.exe (9468)": {
+                        "DiskActivityCount": 10,
+                        "DiskServiceTimeAvgInUs": 432.9,
+                        "DiskWriteMiB": 0.11,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "msedgewebview2.exe (23432)": {
+                        "DiskActivityCount": 40,
+                        "DiskServiceTimeAvgInUs": 366.83,
+                        "DiskWriteMiB": 0.29,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "MsSense.exe (6988)": {
+                        "DiskActivityCount": 5,
+                        "DiskReadMiB": 1.01,
+                        "DiskServiceTimeAvgInUs": 558.06
+                    },
+                    "Registry (196)": {
+                        "DiskActivityCount": 17,
+                        "DiskServiceTimeAvgInUs": 414.36,
+                        "DiskWriteMiB": 0.93
+                    },
+                    "System (4)": {
+                        "DiskActivityCount": 228,
+                        "DiskReadMiB": 0.0,
+                        "DiskServiceTimeAvgInUs": 98.09,
+                        "DiskWriteMiB": 6.17,
+                        "PagefileIoMiB": 0.06
+                    }
+                },
+                "DpcIsrMetric": {
+                    "ACPI.sys": {
+                        "DpcCount": 10,
+                        "DpcTimeMs": 0.89,
+                        "IsrCount": 3,
+                        "IsrTimeMs": 0.21
+                    },
+                    "afd.sys": {
+                        "DpcCount": 2,
+                        "DpcTimeMs": 0.01
+                    },
+                    "CLASSPNP.SYS": {
+                        "DpcCount": 4,
+                        "DpcTimeMs": 0.02
+                    },
+                    "dxgkrnl.sys": {
+                        "DpcCount": 3354,
+                        "DpcTimeMs": 117.56,
+                        "IsrCount": 3444,
+                        "IsrTimeMs": 160.19
+                    },
+                    "dxgmms2.sys": {
+                        "DpcCount": 177,
+                        "DpcTimeMs": 1.13
+                    },
+                    "fse.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.07
+                    },
+                    "igdkmd64.sys": {
+                        "DpcCount": 21,
+                        "DpcTimeMs": 0.37
+                    },
+                    "NDIS.SYS": {
+                        "DpcCount": 908,
+                        "DpcTimeMs": 20.46,
+                        "IsrCount": 782,
+                        "IsrTimeMs": 5.22
+                    },
+                    "Ndu.sys": {
+                        "DpcCount": 5,
+                        "DpcTimeMs": 0.0
+                    },
+                    "Ntfs.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.01
+                    },
+                    "ntoskrnl.exe": {
+                        "DpcCount": 16014,
+                        "DpcTimeMs": 59.95
+                    },
+                    "nvlddmkm.sys": {
+                        "DpcCount": 2950,
+                        "DpcTimeMs": 64.76
+                    },
+                    "serial.sys": {
+                        "IsrCount": 2,
+                        "IsrTimeMs": 0.0
+                    },
+                    "stornvme.sys": {
+                        "DpcCount": 964,
+                        "DpcTimeMs": 4.25
+                    },
+                    "storport.sys": {
+                        "DpcCount": 963,
+                        "DpcTimeMs": 23.4,
+                        "IsrCount": 964,
+                        "IsrTimeMs": 3.12
+                    },
+                    "storvsp.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.01
+                    },
+                    "symcryptk.dll": {
+                        "DpcCount": 60,
+                        "DpcTimeMs": 0.54
+                    },
+                    "tcpip.sys": {
+                        "DpcCount": 227,
+                        "DpcTimeMs": 12.59
+                    },
+                    "vmswitch.sys": {
+                        "DpcCount": 6,
+                        "DpcTimeMs": 0.13
+                    },
+                    "Wdf01000.sys": {
+                        "DpcCount": 1129,
+                        "DpcTimeMs": 64.81,
+                        "IsrCount": 1129,
+                        "IsrTimeMs": 5.76
+                    },
+                    "WdFilter.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.01
+                    }
+                },
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 747,
+                        "AvgWorkingSetSizeMiB": 762,
+                        "PeakCommitSizeMiB": 793,
+                        "PeakWorkingSetSizeMiB": 808,
+                        "SnapshotCount": 10
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 259,
+                        "AvgWorkingSetSizeMiB": 302,
+                        "PeakCommitSizeMiB": 273,
+                        "PeakWorkingSetSizeMiB": 321,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 834,
+                        "AvgWorkingSetSizeMiB": 740,
+                        "PeakCommitSizeMiB": 836,
+                        "PeakWorkingSetSizeMiB": 741,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 387,
+                        "AvgWorkingSetSizeMiB": 72,
+                        "PeakCommitSizeMiB": 406,
+                        "PeakWorkingSetSizeMiB": 74,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 10
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 410,
+                        "AvgWorkingSetSizeMiB": 382,
+                        "PeakCommitSizeMiB": 412,
+                        "PeakWorkingSetSizeMiB": 385,
+                        "SnapshotCount": 10
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 501,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 501,
+                        "SnapshotCount": 10
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 729,
+                        "AvgWorkingSetSizeMiB": 12,
+                        "PeakCommitSizeMiB": 731,
+                        "PeakWorkingSetSizeMiB": 17,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 399,
+                        "AvgWorkingSetSizeMiB": 485,
+                        "PeakCommitSizeMiB": 399,
+                        "PeakWorkingSetSizeMiB": 485,
+                        "SnapshotCount": 10
+                    },
+                    "WUDFHost.exe (2084)": {
+                        "AvgCommitSizeMiB": 254,
+                        "AvgWorkingSetSizeMiB": 261,
+                        "PeakCommitSizeMiB": 254,
+                        "PeakWorkingSetSizeMiB": 261,
+                        "SnapshotCount": 10
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 115518.91,
+                "StopTimeInMs": 120518.91
+            },
+            "BucketId": 24,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {
+                        "Eco": {
+                            "AvgFrequencyInMHz": 2997.42,
+                            "AvgInstructionsPerCycle": 0.5,
+                            "CpuTimeInMs": 2402.81,
+                            "CpuUtilization": 6.01,
+                            "CycleCount": 7202224909,
+                            "InstructionCount": 3578150982
+                        },
+                        "High": {
+                            "AvgFrequencyInMHz": 3024.76,
+                            "AvgInstructionsPerCycle": 0.35,
+                            "CpuTimeInMs": 14892.21,
+                            "CpuUtilization": 37.23,
+                            "CycleCount": 45045426483,
+                            "InstructionCount": 15697911640
+                        },
+                        "Low": {
+                            "AvgFrequencyInMHz": 3023.4,
+                            "AvgInstructionsPerCycle": 0.5,
+                            "CpuTimeInMs": 3292.89,
+                            "CpuUtilization": 8.23,
+                            "CycleCount": 9955724137,
+                            "InstructionCount": 5003952581
+                        },
+                        "Medium": {
+                            "AvgFrequencyInMHz": 2996.0,
+                            "AvgInstructionsPerCycle": 0.43,
+                            "CpuTimeInMs": 9119.06,
+                            "CpuUtilization": 22.8,
+                            "CycleCount": 27320742467,
+                            "InstructionCount": 11814098049
+                        },
+                        "Utility": {
+                            "AvgFrequencyInMHz": 2997.48,
+                            "AvgInstructionsPerCycle": 0.44,
+                            "CpuTimeInMs": 10276.32,
+                            "CpuUtilization": 25.69,
+                            "CycleCount": 30803106789,
+                            "InstructionCount": 13687718761
+                        }
+                    },
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {
+                        "Critical": 210.5,
+                        "DeRanked": 14165.62,
+                        "ForegroundBoosted": 2580.69,
+                        "High": 753.92,
+                        "Idle": 37141.48,
+                        "Low": 13848.69,
+                        "Normal": 36504.1
+                    }
+                },
+                "CpuMetric": {
+                    "AvgFrequencyInMHz": 3009.44,
+                    "AvgInstructionsPerCycle": 0.41,
+                    "CpuTimeInMs": 39984.74,
+                    "CpuUtilization": 99.96,
+                    "CycleCount": 120331648179,
+                    "InstructionCount": 49782640825
+                },
+                "DiskMetric": {
+                    "DiskActivityCount": 411,
+                    "DiskReadMiB": 1.02,
+                    "DiskServiceTimeAvgInUs": 140.87,
+                    "DiskWriteMiB": 3.71,
+                    "PagefileIoMiB": 0.15
+                },
+                "DpcIsrMetric": {
+                    "DpcCount": 24382,
+                    "DpcTimeMs": 321.71,
+                    "IsrCount": 5839,
+                    "IsrTimeMs": 163.21
+                },
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 18161,
+                    "AvgWorkingSetSizeMiB": 16531,
+                    "PeakCommitSizeMiB": 18282,
+                    "PeakWorkingSetSizeMiB": 16612,
+                    "SnapshotCount": 10
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS (4080): Normal, High": {
+                        "AvgFrequencyInMHz": 2971.74,
+                        "AvgInstructionsPerCycle": 0.6,
+                        "CpuTimeInMs": 434.71,
+                        "CpuUtilization": 1.09,
+                        "CycleCount": 1291845215,
+                        "InstructionCount": 774366017
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s TokenBroker (10892): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3025.3,
+                        "AvgInstructionsPerCycle": 0.3,
+                        "CpuTimeInMs": 442.5,
+                        "CpuUtilization": 1.11,
+                        "CycleCount": 1338693288,
+                        "InstructionCount": 398751818
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s wuauserv (2124): Normal, Eco": {
+                        "AvgFrequencyInMHz": 3006.11,
+                        "AvgInstructionsPerCycle": 0.63,
+                        "CpuTimeInMs": 1064.67,
+                        "CpuUtilization": 2.66,
+                        "CycleCount": 3200519655,
+                        "InstructionCount": 2030018193
+                    },
+                    "dwm.exe (2040): Critical, High": {
+                        "AvgFrequencyInMHz": 3046.68,
+                        "AvgInstructionsPerCycle": 0.24,
+                        "CpuTimeInMs": 2881.71,
+                        "CpuUtilization": 7.2,
+                        "CycleCount": 8779639850,
+                        "InstructionCount": 2106698732
+                    },
+                    "IA.exe (13568): Normal, Utility": {
+                        "AvgFrequencyInMHz": 2998.88,
+                        "AvgInstructionsPerCycle": 0.38,
+                        "CpuTimeInMs": 1486.9,
+                        "CpuUtilization": 3.72,
+                        "CycleCount": 4459037404,
+                        "InstructionCount": 1693804921
+                    },
+                    "MoUsoCoreWorker.exe (24748): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3021.75,
+                        "AvgInstructionsPerCycle": 0.46,
+                        "CpuTimeInMs": 650.07,
+                        "CpuUtilization": 1.63,
+                        "CycleCount": 1964349932,
+                        "InstructionCount": 912335982
+                    },
+                    "msedgewebview2.exe (13268): Normal, Low": {
+                        "AvgFrequencyInMHz": 3034.53,
+                        "AvgInstructionsPerCycle": 0.54,
+                        "CpuTimeInMs": 2404.04,
+                        "CpuUtilization": 6.01,
+                        "CycleCount": 7295139608,
+                        "InstructionCount": 3949388240
+                    },
+                    "msedgewebview2.exe (16252): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3034.38,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 433.8,
+                        "CpuUtilization": 1.08,
+                        "CycleCount": 1316314009,
+                        "InstructionCount": 559230251
+                    },
+                    "msedgewebview2.exe (4520): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3047.24,
+                        "AvgInstructionsPerCycle": 0.33,
+                        "CpuTimeInMs": 1489.27,
+                        "CpuUtilization": 3.72,
+                        "CycleCount": 4538160601,
+                        "InstructionCount": 1499704744
+                    },
+                    "MsMpEng.exe (6804): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3021.85,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 1362.71,
+                        "CpuUtilization": 3.41,
+                        "CycleCount": 4117899998,
+                        "InstructionCount": 1746848336
+                    },
+                    "msrdc.exe (23976): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3036.62,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 4843.34,
+                        "CpuUtilization": 12.11,
+                        "CycleCount": 14707379115,
+                        "InstructionCount": 6181737789
+                    },
+                    "msrdc.exe (23976): High, High": {
+                        "AvgFrequencyInMHz": 3067.67,
+                        "AvgInstructionsPerCycle": 0.39,
+                        "CpuTimeInMs": 422.5,
+                        "CpuUtilization": 1.06,
+                        "CycleCount": 1296088959,
+                        "InstructionCount": 501159153
+                    },
+                    "msrdc.exe (23976): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2958.36,
+                        "AvgInstructionsPerCycle": 0.38,
+                        "CpuTimeInMs": 1368.7,
+                        "CpuUtilization": 3.42,
+                        "CycleCount": 4049110133,
+                        "InstructionCount": 1549673634
+                    },
+                    "MsSense.exe (6988): Low, Utility": {
+                        "AvgFrequencyInMHz": 2979.74,
+                        "AvgInstructionsPerCycle": 0.53,
+                        "CpuTimeInMs": 1019.59,
+                        "CpuUtilization": 2.55,
+                        "CycleCount": 3038115590,
+                        "InstructionCount": 1611827717
+                    },
+                    "Spotify.exe (13412): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3001.15,
+                        "AvgInstructionsPerCycle": 0.19,
+                        "CpuTimeInMs": 976.08,
+                        "CpuUtilization": 2.44,
+                        "CycleCount": 2929365313,
+                        "InstructionCount": 553900284
+                    },
+                    "Spotify.exe (24324): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3014.88,
+                        "AvgInstructionsPerCycle": 0.46,
+                        "CpuTimeInMs": 1045.75,
+                        "CpuUtilization": 2.61,
+                        "CycleCount": 3152809813,
+                        "InstructionCount": 1457880829
+                    },
+                    "Spotify.exe (24324): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2977.85,
+                        "AvgInstructionsPerCycle": 0.82,
+                        "CpuTimeInMs": 1420.08,
+                        "CpuUtilization": 3.55,
+                        "CycleCount": 4228790912,
+                        "InstructionCount": 3486336494
+                    },
+                    "taskhostw.exe (8240): Low, Utility": {
+                        "AvgFrequencyInMHz": 2984.26,
+                        "AvgInstructionsPerCycle": 0.47,
+                        "CpuTimeInMs": 1554.62,
+                        "CpuUtilization": 3.89,
+                        "CycleCount": 4639388338,
+                        "InstructionCount": 2176520926
+                    },
+                    "WmiPrvSE.exe (8384): Normal, Eco": {
+                        "AvgFrequencyInMHz": 3008.56,
+                        "AvgInstructionsPerCycle": 0.29,
+                        "CpuTimeInMs": 460.22,
+                        "CpuUtilization": 1.15,
+                        "CycleCount": 1384597816,
+                        "InstructionCount": 399364951
+                    },
+                    "WUDFHost.exe (2084): High, High": {
+                        "AvgFrequencyInMHz": 3014.83,
+                        "AvgInstructionsPerCycle": 0.19,
+                        "CpuTimeInMs": 724.39,
+                        "CpuUtilization": 1.81,
+                        "CycleCount": 2183913665,
+                        "InstructionCount": 406263340
+                    }
+                },
+                "DiskMetric": {
+                    "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p -s BITS (18184)": {
+                        "DiskActivityCount": 11,
+                        "DiskServiceTimeAvgInUs": 93.23,
+                        "DiskWriteMiB": 0.1
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k utcsvc -p (5164)": {
+                        "DiskActivityCount": 14,
+                        "DiskServiceTimeAvgInUs": 346.24,
+                        "DiskWriteMiB": 0.54
+                    },
+                    "MoUsoCoreWorker.exe (24748)": {
+                        "DiskActivityCount": 106,
+                        "DiskServiceTimeAvgInUs": 170.68,
+                        "DiskWriteMiB": 0.47,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "msedge.exe (8084)": {
+                        "DiskActivityCount": 15,
+                        "DiskServiceTimeAvgInUs": 285.15,
+                        "DiskWriteMiB": 0.97,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "msedgewebview2.exe (9756)": {
+                        "DiskActivityCount": 13,
+                        "DiskServiceTimeAvgInUs": 170.14,
+                        "DiskWriteMiB": 0.04
+                    },
+                    "msrdc.exe (23976)": {
+                        "DiskActivityCount": 2,
+                        "DiskServiceTimeAvgInUs": 72.95,
+                        "DiskWriteMiB": 0.02,
+                        "PagefileIoMiB": 0.06
+                    },
+                    "MsSense.exe (6988)": {
+                        "DiskActivityCount": 2,
+                        "DiskReadMiB": 1.0,
+                        "DiskServiceTimeAvgInUs": 407.55
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "DiskActivityCount": 5,
+                        "DiskServiceTimeAvgInUs": 124.02,
+                        "DiskWriteMiB": 0.02
+                    },
+                    "System (4)": {
+                        "DiskActivityCount": 242,
+                        "DiskServiceTimeAvgInUs": 105.74,
+                        "DiskWriteMiB": 1.55
+                    },
+                    "Windows365.exe (9536)": {
+                        "DiskActivityCount": 1,
+                        "DiskReadMiB": 0.02,
+                        "DiskServiceTimeAvgInUs": 275.7,
+                        "PagefileIoMiB": 0.02
+                    }
+                },
+                "DpcIsrMetric": {
+                    "ACPI.sys": {
+                        "DpcCount": 18,
+                        "DpcTimeMs": 1.34,
+                        "IsrCount": 4,
+                        "IsrTimeMs": 0.29
+                    },
+                    "CLASSPNP.SYS": {
+                        "DpcCount": 3,
+                        "DpcTimeMs": 0.02
+                    },
+                    "dxgkrnl.sys": {
+                        "DpcCount": 3411,
+                        "DpcTimeMs": 113.38,
+                        "IsrCount": 3573,
+                        "IsrTimeMs": 152.25
+                    },
+                    "dxgmms2.sys": {
+                        "DpcCount": 197,
+                        "DpcTimeMs": 1.05
+                    },
+                    "fse.sys": {
+                        "DpcCount": 2,
+                        "DpcTimeMs": 0.16
+                    },
+                    "igdkmd64.sys": {
+                        "DpcCount": 28,
+                        "DpcTimeMs": 0.25
+                    },
+                    "NDIS.SYS": {
+                        "DpcCount": 856,
+                        "DpcTimeMs": 20.07,
+                        "IsrCount": 713,
+                        "IsrTimeMs": 5.08
+                    },
+                    "Ndu.sys": {
+                        "DpcCount": 13,
+                        "DpcTimeMs": 0.02
+                    },
+                    "Ntfs.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.01
+                    },
+                    "ntoskrnl.exe": {
+                        "DpcCount": 14553,
+                        "DpcTimeMs": 52.19
+                    },
+                    "nvlddmkm.sys": {
+                        "DpcCount": 3011,
+                        "DpcTimeMs": 64.04
+                    },
+                    "stornvme.sys": {
+                        "DpcCount": 429,
+                        "DpcTimeMs": 1.44
+                    },
+                    "storport.sys": {
+                        "DpcCount": 423,
+                        "DpcTimeMs": 9.2,
+                        "IsrCount": 430,
+                        "IsrTimeMs": 1.17
+                    },
+                    "symcryptk.dll": {
+                        "DpcCount": 59,
+                        "DpcTimeMs": 0.51
+                    },
+                    "tcpip.sys": {
+                        "DpcCount": 247,
+                        "DpcTimeMs": 11.98
+                    },
+                    "usbccgp.sys": {
+                        "DpcCount": 2,
+                        "DpcTimeMs": 0.02
+                    },
+                    "vmswitch.sys": {
+                        "DpcCount": 7,
+                        "DpcTimeMs": 0.13
+                    },
+                    "Wdf01000.sys": {
+                        "DpcCount": 1122,
+                        "DpcTimeMs": 45.9,
+                        "IsrCount": 1119,
+                        "IsrTimeMs": 4.42
+                    }
+                },
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 798,
+                        "AvgWorkingSetSizeMiB": 813,
+                        "PeakCommitSizeMiB": 810,
+                        "PeakWorkingSetSizeMiB": 825,
+                        "SnapshotCount": 10
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 276,
+                        "AvgWorkingSetSizeMiB": 318,
+                        "PeakCommitSizeMiB": 284,
+                        "PeakWorkingSetSizeMiB": 325,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 739,
+                        "AvgWorkingSetSizeMiB": 646,
+                        "PeakCommitSizeMiB": 768,
+                        "PeakWorkingSetSizeMiB": 675,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 379,
+                        "AvgWorkingSetSizeMiB": 69,
+                        "PeakCommitSizeMiB": 380,
+                        "PeakWorkingSetSizeMiB": 70,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 10
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 410,
+                        "AvgWorkingSetSizeMiB": 385,
+                        "PeakCommitSizeMiB": 412,
+                        "PeakWorkingSetSizeMiB": 386,
+                        "SnapshotCount": 10
+                    },
+                    "msrdc.exe (23976)": {
+                        "AvgCommitSizeMiB": 1011,
+                        "AvgWorkingSetSizeMiB": 806,
+                        "PeakCommitSizeMiB": 1123,
+                        "PeakWorkingSetSizeMiB": 870,
+                        "SnapshotCount": 10
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 279,
+                        "AvgWorkingSetSizeMiB": 502,
+                        "PeakCommitSizeMiB": 279,
+                        "PeakWorkingSetSizeMiB": 505,
+                        "SnapshotCount": 10
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 734,
+                        "AvgWorkingSetSizeMiB": 10,
+                        "PeakCommitSizeMiB": 736,
+                        "PeakWorkingSetSizeMiB": 16,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 399,
+                        "AvgWorkingSetSizeMiB": 485,
+                        "PeakCommitSizeMiB": 399,
+                        "PeakWorkingSetSizeMiB": 485,
+                        "SnapshotCount": 10
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 120518.91,
+                "StopTimeInMs": 125518.91
+            },
+            "BucketId": 25,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {
+                        "Eco": {
+                            "AvgFrequencyInMHz": 3000.66,
+                            "AvgInstructionsPerCycle": 0.69,
+                            "CpuTimeInMs": 4074.33,
+                            "CpuUtilization": 10.19,
+                            "CycleCount": 12225680675,
+                            "InstructionCount": 8408543172
+                        },
+                        "High": {
+                            "AvgFrequencyInMHz": 2974.7,
+                            "AvgInstructionsPerCycle": 0.35,
+                            "CpuTimeInMs": 9694.04,
+                            "CpuUtilization": 24.24,
+                            "CycleCount": 28836850186,
+                            "InstructionCount": 9958651803
+                        },
+                        "Low": {
+                            "AvgFrequencyInMHz": 2988.96,
+                            "AvgInstructionsPerCycle": 0.59,
+                            "CpuTimeInMs": 4547.88,
+                            "CpuUtilization": 11.37,
+                            "CycleCount": 13593421919,
+                            "InstructionCount": 8078639523
+                        },
+                        "Medium": {
+                            "AvgFrequencyInMHz": 2964.16,
+                            "AvgInstructionsPerCycle": 0.44,
+                            "CpuTimeInMs": 12373.13,
+                            "CpuUtilization": 30.93,
+                            "CycleCount": 36675950118,
+                            "InstructionCount": 16101465952
+                        },
+                        "Utility": {
+                            "AvgFrequencyInMHz": 2989.44,
+                            "AvgInstructionsPerCycle": 0.46,
+                            "CpuTimeInMs": 8662.12,
+                            "CpuUtilization": 21.66,
+                            "CycleCount": 25894890072,
+                            "InstructionCount": 11809205764
+                        }
+                    },
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {
+                        "Critical": 195.15,
+                        "DeRanked": 2214.39,
+                        "ForegroundBoosted": 1497.17,
+                        "High": 1116.99,
+                        "Idle": 2276.91,
+                        "Low": 3046.32,
+                        "Normal": 26942.52
+                    }
+                },
+                "CpuMetric": {
+                    "AvgFrequencyInMHz": 2978.97,
+                    "AvgInstructionsPerCycle": 0.46,
+                    "CpuTimeInMs": 39352.59,
+                    "CpuUtilization": 98.38,
+                    "CycleCount": 117230176236,
+                    "InstructionCount": 54358867573
+                },
+                "DiskMetric": {
+                    "DiskActivityCount": 548,
+                    "DiskReadMiB": 0.84,
+                    "DiskServiceTimeAvgInUs": 142.18,
+                    "DiskWriteMiB": 9.28,
+                    "PagefileIoMiB": 0.88
+                },
+                "DpcIsrMetric": {
+                    "DpcCount": 21519,
+                    "DpcTimeMs": 270.65,
+                    "IsrCount": 4967,
+                    "IsrTimeMs": 120.18
+                },
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 18088,
+                    "AvgWorkingSetSizeMiB": 16532,
+                    "PeakCommitSizeMiB": 18230,
+                    "PeakWorkingSetSizeMiB": 16581,
+                    "SnapshotCount": 10
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS (4080): Normal, Low": {
+                        "AvgFrequencyInMHz": 3029.97,
+                        "AvgInstructionsPerCycle": 0.67,
+                        "CpuTimeInMs": 1937.57,
+                        "CpuUtilization": 4.84,
+                        "CycleCount": 5870783039,
+                        "InstructionCount": 3916703372
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS (4080): Normal, Utility": {
+                        "AvgFrequencyInMHz": 2922.36,
+                        "AvgInstructionsPerCycle": 0.22,
+                        "CpuTimeInMs": 394.27,
+                        "CpuUtilization": 0.99,
+                        "CycleCount": 1152200669,
+                        "InstructionCount": 248079410
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s wuauserv (2124): Normal, Eco": {
+                        "AvgFrequencyInMHz": 2989.87,
+                        "AvgInstructionsPerCycle": 0.75,
+                        "CpuTimeInMs": 2222.43,
+                        "CpuUtilization": 5.56,
+                        "CycleCount": 6644770442,
+                        "InstructionCount": 4996264853
+                    },
+                    "dwm.exe (2040): Critical, High": {
+                        "AvgFrequencyInMHz": 2997.4,
+                        "AvgInstructionsPerCycle": 0.26,
+                        "CpuTimeInMs": 2650.12,
+                        "CpuUtilization": 6.63,
+                        "CycleCount": 7943470320,
+                        "InstructionCount": 2103343407
+                    },
+                    "explorer.exe (13208): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2931.82,
+                        "AvgInstructionsPerCycle": 0.23,
+                        "CpuTimeInMs": 372.08,
+                        "CpuUtilization": 0.93,
+                        "CycleCount": 1090872804,
+                        "InstructionCount": 248628219
+                    },
+                    "IA.exe (13568): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3012.92,
+                        "AvgInstructionsPerCycle": 0.41,
+                        "CpuTimeInMs": 2580.21,
+                        "CpuUtilization": 6.45,
+                        "CycleCount": 7773959423,
+                        "InstructionCount": 3174681429
+                    },
+                    "msedgewebview2.exe (13268): Normal, Low": {
+                        "AvgFrequencyInMHz": 2988.67,
+                        "AvgInstructionsPerCycle": 0.7,
+                        "CpuTimeInMs": 1400.22,
+                        "CpuUtilization": 3.5,
+                        "CycleCount": 4184796132,
+                        "InstructionCount": 2936083522
+                    },
+                    "MsMpEng.exe (6804): Normal, Utility": {
+                        "AvgFrequencyInMHz": 2976.67,
+                        "AvgInstructionsPerCycle": 0.46,
+                        "CpuTimeInMs": 1124.01,
+                        "CpuUtilization": 2.81,
+                        "CycleCount": 3345810095,
+                        "InstructionCount": 1548554361
+                    },
+                    "msrdc.exe (23976): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2942.01,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 414.56,
+                        "CpuUtilization": 1.04,
+                        "CycleCount": 1219641311,
+                        "InstructionCount": 507221718
+                    },
+                    "msrdc.exe (23976): High, Medium": {
+                        "AvgFrequencyInMHz": 2974.11,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 1328.84,
+                        "CpuUtilization": 3.32,
+                        "CycleCount": 3952122092,
+                        "InstructionCount": 1678948292
+                    },
+                    "msrdc.exe (23976): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2970.05,
+                        "AvgInstructionsPerCycle": 0.41,
+                        "CpuTimeInMs": 5194.07,
+                        "CpuUtilization": 12.99,
+                        "CycleCount": 15426657757,
+                        "InstructionCount": 6355164643
+                    },
+                    "MsSense.exe (6988): DeRanked, Utility": {
+                        "AvgFrequencyInMHz": 2957.83,
+                        "AvgInstructionsPerCycle": 0.91,
+                        "CpuTimeInMs": 333.89,
+                        "CpuUtilization": 0.83,
+                        "CycleCount": 987588758,
+                        "InstructionCount": 898424872
+                    },
+                    "MsSense.exe (6988): Low, Utility": {
+                        "AvgFrequencyInMHz": 2973.15,
+                        "AvgInstructionsPerCycle": 0.52,
+                        "CpuTimeInMs": 635.93,
+                        "CpuUtilization": 1.59,
+                        "CycleCount": 1890718449,
+                        "InstructionCount": 985074330
+                    },
+                    "OUTLOOK.EXE (24212): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 2969.01,
+                        "AvgInstructionsPerCycle": 0.44,
+                        "CpuTimeInMs": 2702.09,
+                        "CpuUtilization": 6.76,
+                        "CycleCount": 8022530982,
+                        "InstructionCount": 3533045664
+                    },
+                    "Spotify.exe (13412): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2968.55,
+                        "AvgInstructionsPerCycle": 0.17,
+                        "CpuTimeInMs": 877.4,
+                        "CpuUtilization": 2.19,
+                        "CycleCount": 2604609234,
+                        "InstructionCount": 437748394
+                    },
+                    "Spotify.exe (24324): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 2981.77,
+                        "AvgInstructionsPerCycle": 0.44,
+                        "CpuTimeInMs": 1074.39,
+                        "CpuUtilization": 2.69,
+                        "CycleCount": 3203587076,
+                        "InstructionCount": 1414923199
+                    },
+                    "Spotify.exe (24324): Normal, Medium": {
+                        "AvgFrequencyInMHz": 2946.86,
+                        "AvgInstructionsPerCycle": 0.81,
+                        "CpuTimeInMs": 1462.17,
+                        "CpuUtilization": 3.66,
+                        "CycleCount": 4308812647,
+                        "InstructionCount": 3504516435
+                    },
+                    "System (4): High, High": {
+                        "AvgFrequencyInMHz": 2951.24,
+                        "AvgInstructionsPerCycle": 0.36,
+                        "CpuTimeInMs": 325.87,
+                        "CpuUtilization": 0.81,
+                        "CycleCount": 961720318,
+                        "InstructionCount": 349097554
+                    },
+                    "wermgr.exe (22776): Low, Eco": {
+                        "AvgFrequencyInMHz": 3026.93,
+                        "AvgInstructionsPerCycle": 0.76,
+                        "CpuTimeInMs": 1219.21,
+                        "CpuUtilization": 3.05,
+                        "CycleCount": 3690466766,
+                        "InstructionCount": 2815325493
+                    },
+                    "WUDFHost.exe (2084): High, High": {
+                        "AvgFrequencyInMHz": 2946.25,
+                        "AvgInstructionsPerCycle": 0.19,
+                        "CpuTimeInMs": 731.2,
+                        "CpuUtilization": 1.83,
+                        "CycleCount": 2154297715,
+                        "InstructionCount": 407871919
+                    }
+                },
+                "DiskMetric": {
+                    "backgroundTaskHost.exe (25736)": {
+                        "DiskActivityCount": 10,
+                        "DiskServiceTimeAvgInUs": 244.87,
+                        "DiskWriteMiB": 0.06,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog (4940)": {
+                        "DiskActivityCount": 4,
+                        "DiskServiceTimeAvgInUs": 289.18,
+                        "DiskWriteMiB": 0.02
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Schedule (2712)": {
+                        "DiskActivityCount": 8,
+                        "DiskServiceTimeAvgInUs": 424.5,
+                        "DiskWriteMiB": 0.5
+                    },
+                    "MoUsoCoreWorker.exe (24748)": {
+                        "DiskActivityCount": 19,
+                        "DiskServiceTimeAvgInUs": 229.19,
+                        "DiskWriteMiB": 0.07
+                    },
+                    "msedge.exe (8084)": {
+                        "DiskActivityCount": 15,
+                        "DiskServiceTimeAvgInUs": 313.67,
+                        "DiskWriteMiB": 0.17
+                    },
+                    "msedgewebview2.exe (15456)": {
+                        "DiskActivityCount": 24,
+                        "DiskServiceTimeAvgInUs": 321.12,
+                        "DiskWriteMiB": 0.12
+                    },
+                    "msedgewebview2.exe (19220)": {
+                        "DiskActivityCount": 14,
+                        "DiskServiceTimeAvgInUs": 423.2,
+                        "DiskWriteMiB": 0.14,
+                        "PagefileIoMiB": 0.01
+                    },
+                    "msedgewebview2.exe (23432)": {
+                        "DiskActivityCount": 27,
+                        "DiskServiceTimeAvgInUs": 300.24,
+                        "DiskWriteMiB": 0.27
+                    },
+                    "MsSense.exe (6988)": {
+                        "DiskActivityCount": 3,
+                        "DiskReadMiB": 0.23,
+                        "DiskServiceTimeAvgInUs": 407.07
+                    },
+                    "System (4)": {
+                        "DiskActivityCount": 412,
+                        "DiskReadMiB": 0.62,
+                        "DiskServiceTimeAvgInUs": 82.57,
+                        "DiskWriteMiB": 7.89,
+                        "PagefileIoMiB": 0.62
+                    }
+                },
+                "DpcIsrMetric": {
+                    "ACPI.sys": {
+                        "DpcCount": 13,
+                        "DpcTimeMs": 0.94,
+                        "IsrCount": 3,
+                        "IsrTimeMs": 0.24
+                    },
+                    "afd.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.03
+                    },
+                    "CLASSPNP.SYS": {
+                        "DpcCount": 3,
+                        "DpcTimeMs": 0.01
+                    },
+                    "dxgkrnl.sys": {
+                        "DpcCount": 2393,
+                        "DpcTimeMs": 82.11,
+                        "IsrCount": 2234,
+                        "IsrTimeMs": 106.1
+                    },
+                    "dxgmms2.sys": {
+                        "DpcCount": 151,
+                        "DpcTimeMs": 0.92
+                    },
+                    "igdkmd64.sys": {
+                        "DpcCount": 21,
+                        "DpcTimeMs": 0.17
+                    },
+                    "NDIS.SYS": {
+                        "DpcCount": 976,
+                        "DpcTimeMs": 16.24,
+                        "IsrCount": 872,
+                        "IsrTimeMs": 5.53
+                    },
+                    "Ndu.sys": {
+                        "DpcCount": 5,
+                        "DpcTimeMs": 0.0
+                    },
+                    "Ntfs.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.0
+                    },
+                    "ntoskrnl.exe": {
+                        "DpcCount": 13741,
+                        "DpcTimeMs": 46.93
+                    },
+                    "nvlddmkm.sys": {
+                        "DpcCount": 1498,
+                        "DpcTimeMs": 28.04
+                    },
+                    "serial.sys": {
+                        "IsrCount": 2,
+                        "IsrTimeMs": 0.01
+                    },
+                    "stornvme.sys": {
+                        "DpcCount": 557,
+                        "DpcTimeMs": 1.63
+                    },
+                    "storport.sys": {
+                        "DpcCount": 556,
+                        "DpcTimeMs": 11.68,
+                        "IsrCount": 558,
+                        "IsrTimeMs": 1.25
+                    },
+                    "storvsp.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.0
+                    },
+                    "symcryptk.dll": {
+                        "DpcCount": 59,
+                        "DpcTimeMs": 0.58
+                    },
+                    "tcpip.sys": {
+                        "DpcCount": 241,
+                        "DpcTimeMs": 9.52
+                    },
+                    "vmswitch.sys": {
+                        "DpcCount": 3,
+                        "DpcTimeMs": 0.04
+                    },
+                    "Wdf01000.sys": {
+                        "DpcCount": 1299,
+                        "DpcTimeMs": 71.8,
+                        "IsrCount": 1298,
+                        "IsrTimeMs": 7.05
+                    }
+                },
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 802,
+                        "AvgWorkingSetSizeMiB": 818,
+                        "PeakCommitSizeMiB": 803,
+                        "PeakWorkingSetSizeMiB": 819,
+                        "SnapshotCount": 10
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 284,
+                        "AvgWorkingSetSizeMiB": 325,
+                        "PeakCommitSizeMiB": 284,
+                        "PeakWorkingSetSizeMiB": 325,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 746,
+                        "AvgWorkingSetSizeMiB": 652,
+                        "PeakCommitSizeMiB": 752,
+                        "PeakWorkingSetSizeMiB": 658,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 378,
+                        "AvgWorkingSetSizeMiB": 68,
+                        "PeakCommitSizeMiB": 378,
+                        "PeakWorkingSetSizeMiB": 68,
+                        "SnapshotCount": 10
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 10
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 410,
+                        "AvgWorkingSetSizeMiB": 385,
+                        "PeakCommitSizeMiB": 412,
+                        "PeakWorkingSetSizeMiB": 387,
+                        "SnapshotCount": 10
+                    },
+                    "msrdc.exe (23976)": {
+                        "AvgCommitSizeMiB": 920,
+                        "AvgWorkingSetSizeMiB": 780,
+                        "PeakCommitSizeMiB": 999,
+                        "PeakWorkingSetSizeMiB": 844,
+                        "SnapshotCount": 10
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 288,
+                        "AvgWorkingSetSizeMiB": 515,
+                        "PeakCommitSizeMiB": 302,
+                        "PeakWorkingSetSizeMiB": 529,
+                        "SnapshotCount": 10
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 740,
+                        "AvgWorkingSetSizeMiB": 7,
+                        "PeakCommitSizeMiB": 744,
+                        "PeakWorkingSetSizeMiB": 15,
+                        "SnapshotCount": 10
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 399,
+                        "AvgWorkingSetSizeMiB": 484,
+                        "PeakCommitSizeMiB": 399,
+                        "PeakWorkingSetSizeMiB": 485,
+                        "SnapshotCount": 10
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 125518.91,
+                "StopTimeInMs": 130518.91
+            },
+            "BucketId": 26,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {
+                        "Eco": {
+                            "AvgFrequencyInMHz": 3058.4,
+                            "AvgInstructionsPerCycle": 0.62,
+                            "CpuTimeInMs": 1677.58,
+                            "CpuUtilization": 4.19,
+                            "CycleCount": 5130703132,
+                            "InstructionCount": 3197642006
+                        },
+                        "High": {
+                            "AvgFrequencyInMHz": 3037.83,
+                            "AvgInstructionsPerCycle": 0.34,
+                            "CpuTimeInMs": 3044.84,
+                            "CpuUtilization": 7.61,
+                            "CycleCount": 9249719786,
+                            "InstructionCount": 3104786906
+                        },
+                        "Low": {
+                            "AvgFrequencyInMHz": 3053.7,
+                            "AvgInstructionsPerCycle": 0.56,
+                            "CpuTimeInMs": 699.45,
+                            "CpuUtilization": 1.75,
+                            "CycleCount": 2135907812,
+                            "InstructionCount": 1196491704
+                        },
+                        "Medium": {
+                            "AvgFrequencyInMHz": 3030.35,
+                            "AvgInstructionsPerCycle": 0.49,
+                            "CpuTimeInMs": 8810.58,
+                            "CpuUtilization": 22.03,
+                            "CycleCount": 26699169975,
+                            "InstructionCount": 12981837241
+                        },
+                        "Utility": {
+                            "AvgFrequencyInMHz": 3042.91,
+                            "AvgInstructionsPerCycle": 0.5,
+                            "CpuTimeInMs": 4730.54,
+                            "CpuUtilization": 11.83,
+                            "CycleCount": 14394619564,
+                            "InstructionCount": 7129908624
+                        }
+                    },
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {
+                        "Critical": 63.62,
+                        "DeRanked": 419.87,
+                        "ForegroundBoosted": 575.91,
+                        "High": 695.71,
+                        "Idle": 2690.25,
+                        "Low": 2713.84,
+                        "Normal": 21395.26
+                    }
+                },
+                "CpuMetric": {
+                    "AvgFrequencyInMHz": 3038.03,
+                    "AvgInstructionsPerCycle": 0.48,
+                    "CpuTimeInMs": 18963.19,
+                    "CpuUtilization": 47.41,
+                    "CycleCount": 57610731785,
+                    "InstructionCount": 27611042930
+                },
+                "DiskMetric": {
+                    "DiskActivityCount": 500,
+                    "DiskReadMiB": 0.03,
+                    "DiskServiceTimeAvgInUs": 187.19,
+                    "DiskWriteMiB": 69.86,
+                    "PagefileIoMiB": 0.27
+                },
+                "DpcIsrMetric": {
+                    "DpcCount": 7089,
+                    "DpcTimeMs": 103.62,
+                    "IsrCount": 2471,
+                    "IsrTimeMs": 53.56
+                },
+                "MemoryMetric": {
+                    "AvgCommitSizeMiB": 18734,
+                    "AvgWorkingSetSizeMiB": 16906,
+                    "PeakCommitSizeMiB": 18820,
+                    "PeakWorkingSetSizeMiB": 17002,
+                    "SnapshotCount": 5
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS (4080): Normal, Low": {
+                        "AvgFrequencyInMHz": 3061.99,
+                        "AvgInstructionsPerCycle": 0.59,
+                        "CpuTimeInMs": 592.34,
+                        "CpuUtilization": 1.48,
+                        "CycleCount": 1813736917,
+                        "InstructionCount": 1075441285
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS (4080): Normal, Utility": {
+                        "AvgFrequencyInMHz": 2964.88,
+                        "AvgInstructionsPerCycle": 0.22,
+                        "CpuTimeInMs": 150.18,
+                        "CpuUtilization": 0.38,
+                        "CycleCount": 445265487,
+                        "InstructionCount": 97793468
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s wuauserv (2124): Normal, Eco": {
+                        "AvgFrequencyInMHz": 3034.94,
+                        "AvgInstructionsPerCycle": 0.76,
+                        "CpuTimeInMs": 644.82,
+                        "CpuUtilization": 1.61,
+                        "CycleCount": 1956991266,
+                        "InstructionCount": 1484468790
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k whesvc -p -s whesvc (20764): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3044.58,
+                        "AvgInstructionsPerCycle": 0.55,
+                        "CpuTimeInMs": 1008.16,
+                        "CpuUtilization": 2.52,
+                        "CycleCount": 3069421896,
+                        "InstructionCount": 1681329205
+                    },
+                    "dwm.exe (2040): Critical, High": {
+                        "AvgFrequencyInMHz": 3072.45,
+                        "AvgInstructionsPerCycle": 0.27,
+                        "CpuTimeInMs": 796.75,
+                        "CpuUtilization": 1.99,
+                        "CycleCount": 2447977450,
+                        "InstructionCount": 662325230
+                    },
+                    "IA.exe (13568): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3048.73,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 1178.96,
+                        "CpuUtilization": 2.95,
+                        "CycleCount": 3594329249,
+                        "InstructionCount": 1503632242
+                    },
+                    "MpDlpService.exe (16740): High, High": {
+                        "AvgFrequencyInMHz": 3025.12,
+                        "AvgInstructionsPerCycle": 0.26,
+                        "CpuTimeInMs": 162.96,
+                        "CpuUtilization": 0.41,
+                        "CycleCount": 492974141,
+                        "InstructionCount": 126878781
+                    },
+                    "MsMpEng.exe (6804): Normal, Utility": {
+                        "AvgFrequencyInMHz": 3034.28,
+                        "AvgInstructionsPerCycle": 0.48,
+                        "CpuTimeInMs": 500.89,
+                        "CpuUtilization": 1.25,
+                        "CycleCount": 1519841946,
+                        "InstructionCount": 725076977
+                    },
+                    "msrdc.exe (23976): High, Medium": {
+                        "AvgFrequencyInMHz": 3035.63,
+                        "AvgInstructionsPerCycle": 0.46,
+                        "CpuTimeInMs": 1184.53,
+                        "CpuUtilization": 2.96,
+                        "CycleCount": 3595798225,
+                        "InstructionCount": 1659360817
+                    },
+                    "msrdc.exe (23976): Normal, Medium": {
+                        "AvgFrequencyInMHz": 3025.19,
+                        "AvgInstructionsPerCycle": 0.48,
+                        "CpuTimeInMs": 5102.28,
+                        "CpuUtilization": 12.76,
+                        "CycleCount": 15435347796,
+                        "InstructionCount": 7464797729
+                    },
+                    "MsSense.exe (6988): Low, Utility": {
+                        "AvgFrequencyInMHz": 3016.42,
+                        "AvgInstructionsPerCycle": 0.55,
+                        "CpuTimeInMs": 364.42,
+                        "CpuUtilization": 0.91,
+                        "CycleCount": 1099244812,
+                        "InstructionCount": 605835770
+                    },
+                    "OUTLOOK.EXE (24212): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 3037.99,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 708.57,
+                        "CpuUtilization": 1.77,
+                        "CycleCount": 2152629406,
+                        "InstructionCount": 903153552
+                    },
+                    "spoolsv.exe (5972): Normal, Medium": {
+                        "AvgFrequencyInMHz": 3061.87,
+                        "AvgInstructionsPerCycle": 0.42,
+                        "CpuTimeInMs": 439.28,
+                        "CpuUtilization": 1.1,
+                        "CycleCount": 1345017096,
+                        "InstructionCount": 560140939
+                    },
+                    "Spotify.exe (13412): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3040.98,
+                        "AvgInstructionsPerCycle": 0.17,
+                        "CpuTimeInMs": 293.5,
+                        "CpuUtilization": 0.73,
+                        "CycleCount": 892529074,
+                        "InstructionCount": 154164354
+                    },
+                    "Spotify.exe (24324): ForegroundBoosted, Medium": {
+                        "AvgFrequencyInMHz": 3046.91,
+                        "AvgInstructionsPerCycle": 0.53,
+                        "CpuTimeInMs": 435.65,
+                        "CpuUtilization": 1.09,
+                        "CycleCount": 1327387222,
+                        "InstructionCount": 708633772
+                    },
+                    "Spotify.exe (24324): Normal, Medium": {
+                        "AvgFrequencyInMHz": 3013.38,
+                        "AvgInstructionsPerCycle": 0.93,
+                        "CpuTimeInMs": 595.25,
+                        "CpuUtilization": 1.49,
+                        "CycleCount": 1793715499,
+                        "InstructionCount": 1664004503
+                    },
+                    "System (4): ForegroundBoosted, High": {
+                        "AvgFrequencyInMHz": 2994.5,
+                        "AvgInstructionsPerCycle": 0.35,
+                        "CpuTimeInMs": 156.63,
+                        "CpuUtilization": 0.39,
+                        "CycleCount": 469028648,
+                        "InstructionCount": 162492322
+                    },
+                    "System (4): Normal, High": {
+                        "AvgFrequencyInMHz": 2967.22,
+                        "AvgInstructionsPerCycle": 0.25,
+                        "CpuTimeInMs": 145.52,
+                        "CpuUtilization": 0.36,
+                        "CycleCount": 431790246,
+                        "InstructionCount": 108709679
+                    },
+                    "WmiPrvSE.exe (8384): Normal, Eco": {
+                        "AvgFrequencyInMHz": 3094.19,
+                        "AvgInstructionsPerCycle": 0.55,
+                        "CpuTimeInMs": 687.59,
+                        "CpuUtilization": 1.72,
+                        "CycleCount": 2127531675,
+                        "InstructionCount": 1167576303
+                    },
+                    "WUDFHost.exe (2084): High, High": {
+                        "AvgFrequencyInMHz": 3033.43,
+                        "AvgInstructionsPerCycle": 0.25,
+                        "CpuTimeInMs": 243.99,
+                        "CpuUtilization": 0.61,
+                        "CycleCount": 740126289,
+                        "InstructionCount": 183736929
+                    }
+                },
+                "DiskMetric": {
+                    "AzVpnAppx.exe (7644)": {
+                        "DiskActivityCount": 10,
+                        "DiskServiceTimeAvgInUs": 348.59,
+                        "DiskWriteMiB": 0.12,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "backgroundTaskHost.exe (25736)": {
+                        "DiskActivityCount": 11,
+                        "DiskServiceTimeAvgInUs": 374.11,
+                        "DiskWriteMiB": 0.16
+                    },
+                    "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog (4940)": {
+                        "DiskActivityCount": 7,
+                        "DiskServiceTimeAvgInUs": 559.01,
+                        "DiskWriteMiB": 0.08
+                    },
+                    "C:\\WINDOWS\\system32\\svchost.exe -k whesvc -p -s whesvc (20764)": {
+                        "DiskActivityCount": 154,
+                        "DiskReadMiB": 0.0,
+                        "DiskServiceTimeAvgInUs": 150.8,
+                        "DiskWriteMiB": 31.47,
+                        "PagefileIoMiB": 0.01
+                    },
+                    "msedge.exe (8084)": {
+                        "DiskActivityCount": 28,
+                        "DiskServiceTimeAvgInUs": 379.93,
+                        "DiskWriteMiB": 1.15
+                    },
+                    "msedgewebview2.exe (19220)": {
+                        "DiskActivityCount": 13,
+                        "DiskServiceTimeAvgInUs": 343.87,
+                        "DiskWriteMiB": 0.11
+                    },
+                    "msrdc.exe (23976)": {
+                        "DiskActivityCount": 2,
+                        "DiskServiceTimeAvgInUs": 99.75,
+                        "DiskWriteMiB": 0.02,
+                        "PagefileIoMiB": 0.06
+                    },
+                    "MsSense.exe (6988)": {
+                        "DiskActivityCount": 1,
+                        "DiskReadMiB": 0.0,
+                        "DiskServiceTimeAvgInUs": 264.7,
+                        "PagefileIoMiB": 0.0
+                    },
+                    "Registry (196)": {
+                        "DiskActivityCount": 14,
+                        "DiskServiceTimeAvgInUs": 295.44,
+                        "DiskWriteMiB": 0.29
+                    },
+                    "System (4)": {
+                        "DiskActivityCount": 260,
+                        "DiskReadMiB": 0.02,
+                        "DiskServiceTimeAvgInUs": 150.57,
+                        "DiskWriteMiB": 36.46
+                    }
+                },
+                "DpcIsrMetric": {
+                    "ACPI.sys": {
+                        "DpcCount": 37,
+                        "DpcTimeMs": 8.21,
+                        "IsrCount": 26,
+                        "IsrTimeMs": 1.79
+                    },
+                    "CLASSPNP.SYS": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.0
+                    },
+                    "dxgkrnl.sys": {
+                        "DpcCount": 1193,
+                        "DpcTimeMs": 34.75,
+                        "IsrCount": 1139,
+                        "IsrTimeMs": 46.03
+                    },
+                    "dxgmms2.sys": {
+                        "DpcCount": 51,
+                        "DpcTimeMs": 0.21
+                    },
+                    "igdkmd64.sys": {
+                        "DpcCount": 11,
+                        "DpcTimeMs": 0.22
+                    },
+                    "NDIS.SYS": {
+                        "DpcCount": 895,
+                        "DpcTimeMs": 10.98,
+                        "IsrCount": 837,
+                        "IsrTimeMs": 4.34
+                    },
+                    "Ndu.sys": {
+                        "DpcCount": 11,
+                        "DpcTimeMs": 0.02
+                    },
+                    "Ntfs.sys": {
+                        "DpcCount": 1,
+                        "DpcTimeMs": 0.0
+                    },
+                    "ntoskrnl.exe": {
+                        "DpcCount": 3336,
+                        "DpcTimeMs": 13.6
+                    },
+                    "nvlddmkm.sys": {
+                        "DpcCount": 817,
+                        "DpcTimeMs": 14.33
+                    },
+                    "stornvme.sys": {
+                        "DpcCount": 81,
+                        "DpcTimeMs": 0.23
+                    },
+                    "storport.sys": {
+                        "DpcCount": 78,
+                        "DpcTimeMs": 1.34,
+                        "IsrCount": 81,
+                        "IsrTimeMs": 0.18
+                    },
+                    "symcryptk.dll": {
+                        "DpcCount": 27,
+                        "DpcTimeMs": 0.2
+                    },
+                    "tcpip.sys": {
+                        "DpcCount": 157,
+                        "DpcTimeMs": 5.7
+                    },
+                    "usbccgp.sys": {
+                        "DpcCount": 2,
+                        "DpcTimeMs": 0.01
+                    },
+                    "vmswitch.sys": {
+                        "DpcCount": 2,
+                        "DpcTimeMs": 0.06
+                    },
+                    "Wdf01000.sys": {
+                        "DpcCount": 389,
+                        "DpcTimeMs": 13.74,
+                        "IsrCount": 388,
+                        "IsrTimeMs": 1.22
+                    }
+                },
+                "MemoryMetric": {
+                    "dwm.exe (2040)": {
+                        "AvgCommitSizeMiB": 789,
+                        "AvgWorkingSetSizeMiB": 805,
+                        "PeakCommitSizeMiB": 790,
+                        "PeakWorkingSetSizeMiB": 806,
+                        "SnapshotCount": 5
+                    },
+                    "msedge.exe (15652)": {
+                        "AvgCommitSizeMiB": 264,
+                        "AvgWorkingSetSizeMiB": 305,
+                        "PeakCommitSizeMiB": 271,
+                        "PeakWorkingSetSizeMiB": 313,
+                        "SnapshotCount": 5
+                    },
+                    "msedgewebview2.exe (13268)": {
+                        "AvgCommitSizeMiB": 752,
+                        "AvgWorkingSetSizeMiB": 658,
+                        "PeakCommitSizeMiB": 752,
+                        "PeakWorkingSetSizeMiB": 658,
+                        "SnapshotCount": 5
+                    },
+                    "msedgewebview2.exe (18764)": {
+                        "AvgCommitSizeMiB": 377,
+                        "AvgWorkingSetSizeMiB": 68,
+                        "PeakCommitSizeMiB": 377,
+                        "PeakWorkingSetSizeMiB": 68,
+                        "SnapshotCount": 5
+                    },
+                    "msedgewebview2.exe (19024)": {
+                        "AvgCommitSizeMiB": 268,
+                        "AvgWorkingSetSizeMiB": 2,
+                        "PeakCommitSizeMiB": 268,
+                        "PeakWorkingSetSizeMiB": 2,
+                        "SnapshotCount": 5
+                    },
+                    "MsMpEng.exe (6804)": {
+                        "AvgCommitSizeMiB": 411,
+                        "AvgWorkingSetSizeMiB": 387,
+                        "PeakCommitSizeMiB": 414,
+                        "PeakWorkingSetSizeMiB": 389,
+                        "SnapshotCount": 5
+                    },
+                    "msrdc.exe (23976)": {
+                        "AvgCommitSizeMiB": 1471,
+                        "AvgWorkingSetSizeMiB": 1148,
+                        "PeakCommitSizeMiB": 1566,
+                        "PeakWorkingSetSizeMiB": 1248,
+                        "SnapshotCount": 5
+                    },
+                    "OUTLOOK.EXE (24212)": {
+                        "AvgCommitSizeMiB": 297,
+                        "AvgWorkingSetSizeMiB": 525,
+                        "PeakCommitSizeMiB": 303,
+                        "PeakWorkingSetSizeMiB": 530,
+                        "SnapshotCount": 5
+                    },
+                    "SenseTracer.exe (11804)": {
+                        "AvgCommitSizeMiB": 746,
+                        "AvgWorkingSetSizeMiB": 9,
+                        "PeakCommitSizeMiB": 748,
+                        "PeakWorkingSetSizeMiB": 13,
+                        "SnapshotCount": 5
+                    },
+                    "Spotify.exe (24324)": {
+                        "AvgCommitSizeMiB": 399,
+                        "AvgWorkingSetSizeMiB": 484,
+                        "PeakCommitSizeMiB": 399,
+                        "PeakWorkingSetSizeMiB": 484,
+                        "SnapshotCount": 5
+                    }
+                }
+            }
+        },
+        {
+            "Bucket": {
+                "DurationInMs": 5000,
+                "StartTimeInMs": 130518.91,
+                "StopTimeInMs": 135518.91
+            },
+            "BucketId": 27,
+            "BucketLevelMetric": {
+                "CpuDerivativeMetric": {
+                    "CpuMetricByQos": {},
+                    "DriverCpuSampleMsByImage": {},
+                    "ReadyTimeMsByPriority": {}
+                },
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {
+                    "SnapshotCount": 0
+                }
+            },
+            "LowLevelMetric": {
+                "CpuMetric": {},
+                "DiskMetric": {},
+                "DpcIsrMetric": {},
+                "MemoryMetric": {}
+            }
+        }
+    ],
+    "region": {
+        "CSwitchAvailableRegion": {
+            "DurationInMs": 28827.33,
+            "StartTimeInMs": 99065.65,
+            "StopTimeInMs": 127892.98
+        },
+        "Region": {
+            "DurationInMs": 130140.35,
+            "StartTimeInMs": 518.91,
+            "StopTimeInMs": 130659.26
+        },
+        "SystemConfigMetric": {
+            "BiosDate": "02\/10\/2025",
+            "BiosVersion": "N2XET43W (1.33 )",
+            "BuildLab": "27871.1001.amd64fre.rs_es.250531-1501",
+            "OemManufacturer": "LENOVO",
+            "OemModel": "20T5S00N00",
+            "OsVersionBuild": 27871,
+            "ProcessorCount": 8,
+            "ProcessorFrequencyMHz": 2304,
+            "ProcessorModel": "Intel(R) Core(TM) i7-10610U CPU @ 1.80GHz",
+            "UsableRamInMB": 48871
+        },
+        "TopLevelMetric": {
+            "CpuMetric": {
+                "AvgFrequencyInMHz": 3009.19,
+                "AvgInstructionsPerCycle": 0.42,
+                "CpuTimeInMs": 228522.71,
+                "CpuUtilization": 99.09,
+                "CycleCount": 687668643804,
+                "InstructionCount": 288220361644
+            },
+            "DiskMetric": {
+                "DiskActivityCount": 3641,
+                "DiskReadMiB": 2.91,
+                "DiskServiceTimeAvgInUs": 210.01,
+                "DiskWriteMiB": 137.33,
+                "PagefileIoMiB": 7.62
+            },
+            "DpcIsrMetric": {
+                "DpcCount": 112632,
+                "DpcTimeMs": 1735.88,
+                "IsrCount": 31160,
+                "IsrTimeMs": 873.64
+            },
+            "MemoryMetric": {
+                "AvgCommitSizeMiB": 17230,
+                "AvgWorkingSetSizeMiB": 15877,
+                "PeakCommitSizeMiB": 18820,
+                "PeakWorkingSetSizeMiB": 17002,
+                "SnapshotCount": 114
+            },
+            "PowerSnapMetric": {
+                "BigTotalCycles": 0,
+                "EventTimestampInMs": 16591.1,
+                "IntervalDurationInSeconds": 12296,
+                "IsDC": false,
+                "IsEnergySaverOn": false,
+                "IsMonitorOn": false,
+                "LittleTotalCycles": 3453379870404
+            }
+        }
+    }
+}
