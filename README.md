@@ -17,7 +17,7 @@ The application analyzes system performance data stored in JSON format to identi
 
 - Python 3.8+
 - OpenAI API key for access to GPT-4o
-- Required Python packages:
+- Required Python packages > requirements.txt
   - langchain-openai
   - langchain-mcp-adapters
   - langgraph
